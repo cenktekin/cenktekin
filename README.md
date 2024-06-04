@@ -6,7 +6,7 @@ Merhaba dünya! Ben Cenk Tekin, emekli bir proje yöneticisi ve hayat boyu öğr
 
 ## Neler Yaparım?
 
-- 🧠 **Bilgi Paylaşımı:** LinkedIn'de proje yönetimi, yönetim uygulamaları ve teknik bilgiler hakkında içerikler üretiyorum.
+- 🧠 **Bilgi Paylaşımı:** LinkedIn'de ve Blog'umda proje yönetimi, yönetim uygulamaları ve teknik bilgiler hakkında içerikler üretiyorum.
 - 📚 **Araştırma:** Günümün büyük kısmını kitap okuyarak, araştırma yaparak ve yeni şeyler öğrenerek geçiriyorum.
 - 👨‍👩‍👧‍👦 **Aile Zamanı:** Aileme ve çocuklarıma daha fazla vakit ayırıyorum.
 - 💻 **Kodlama:** Web teknolojileri ve front-end geliştirme konularında kendimi geliştiriyorum.
@@ -20,6 +20,7 @@ Merhaba dünya! Ben Cenk Tekin, emekli bir proje yöneticisi ve hayat boyu öğr
 ## Benimle İletişime Geçin!
 
 - 📬 **E-posta:** cenktekin@duck.com
+- 💻 **https://doctrinesofworklife.wordpress.com/**
 
 ## Kodlama Maceram
 
