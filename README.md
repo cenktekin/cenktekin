@@ -13,7 +13,7 @@ Merhaba dünya! Ben Cenk Tekin, emekli bir proje yöneticisi ve hayat boyu öğr
 
 ## Hakkımda İlginç Bilgiler
 
-- 📍 **Nereden:** Türkiye'de pek çok büyük ölçekli firmada (Meteksan, TEpe Teknoloji, Bilkent Holding) son olarak da HAVELSAN'da 15 yıl çalıştım.
+- 📍 **Nereden:** Türkiye'de pek çok büyük ölçekli firmada (Meteksan, TEpe Teknoloji, Bilkent Holding) son olarak da HAVELSAN'da 5 yılı altyüklenicide olmak üzere 15 yıl Proje Müdürü olarak çalıştım.
 - 🎨 **Hobiler:** Kitap okumak, yazmak, yeni teknolojiler öğrenmek.
 - 🌱 **Felsefe:** Hayat boyu öğrenme ve sürekli gelişim.
 
