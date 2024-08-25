@@ -24,7 +24,7 @@ Merhaba dünya! Ben Cenk Tekin, emekli bir proje yöneticisi ve hayat boyu öğr
 
 ## Kodlama Maceram
 
-Şu anda özellikle web teknolojileri ve front-end geliştirme üzerine çalışıyorum. macOS ve Windows ortamında Python, JavaScript ve diğer dillerle projeler geliştiriyorum. İşte birkaç projem:
+Şu anda özellikle web teknolojileri ve front-end geliştirme üzerine çalışıyorum. Daha çok Linux ve açık kaynak uygulamalar üzerinde uzmanlaşmaya, bunun yanında macOS ve Windows ortamında Python, JavaScript ve diğer dillerle projeler geliştiriyorum. İşte birkaç projem:
 
 ### Projelerim
 
