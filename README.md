@@ -31,7 +31,8 @@
 | [`solomonagent`](https://github.com/cenktekin/solomonagent) | CLI üzerinden web sayfası özetleme ve etkileşim  
 | [`chatGPTBox`](https://github.com/cenktekin/chatGPTBox) | Tarayıcıya entegre ChatGPT deneyimi  
 | [`FinansalVeriAnalizi`](https://github.com/cenktekin/FinansalVeriAnalizi) *(private)* | Finansal veri görselleştirme ve analiz araçları  
-| [`ideagenerator`](https://github.com/cenktekin/ideagenerator) *(private)* | AI destekli fikir üretim aracı (TypeScript + Next.js)
+| [`ideagenerator`](https://github.com/cenktekin/ideagenerator) *(private)* | AI destekli fikir üretim aracı (TypeScript + Next.js)  
+| [`airwatch`](https://github.com/cenktekin/airwatch) | Gerçek zamanlı hava durumu, polen ve hava kalitesi verilerini sunan, AI destekli modern web uygulaması (Chart.js, Open-Meteo, Vanilla JS)
 
 ---
 
