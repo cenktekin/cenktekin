@@ -12,8 +12,8 @@
 - 🛠️ Kod yazıyorum, otomasyon geliştiriyorum:  
   Bash, Python, TypeScript ile üretkenlik scriptleri, AI destekli uygulamalar ve tarayıcı eklentileri geliştiriyorum.
 
-- 🤖 AI ile çalışıyorum:  
-  Prompt mühendisliği, AI destekli seyahat öneri sistemleri, yer imi sınıflandırıcılar ve multi-agent tarayıcı otomasyonları üzerine projelerim var.
+- 🤖 AI ile çalışıyorum:
+  Prompt mühendisliği, AI destekli seyahat öneri sistemleri, yer imi sınıflandırıcılar, multi-agent tarayıcı otomasyonları ve sınav hazırlık platformları üzerine projelerim var.
 
 - 📚 Sürekli öğreniyorum:  
   Kitaplar, yeni teknolojiler ve felsefi metinler arasında sürekli gelişim peşindeyim.
@@ -33,6 +33,10 @@
 | [`FinansalVeriAnalizi`](https://github.com/cenktekin/FinansalVeriAnalizi) *(private)* | Finansal veri görselleştirme ve analiz araçları  
 | [`ideagenerator`](https://github.com/cenktekin/ideagenerator) *(private)* | AI destekli fikir üretim aracı (TypeScript + Next.js)  
 | [`airwatch`](https://github.com/cenktekin/airwatch) | Gerçek zamanlı hava durumu, polen ve hava kalitesi verilerini sunan, AI destekli modern web uygulaması (Chart.js, Open-Meteo, Vanilla JS)
+| [`checklearn`](https://github.com/cenktekin/checklearn) | Satranç son oyunlarını öğrenmek için interaktif eğitim uygulaması (TypeScript, GNU GPL v3.0)
+| [`sismolog`](https://github.com/cenktekin/sismolog) | Türkiye'deki deprem verilerini gerçek zamanlı takip ve görselleştiren modern web uygulaması (JavaScript)
+| [`study-assistant`](https://github.com/cenktekin/study-assistant) | Türkiye sınavları (YKS, ALES, KPSS, DGS, MSÜ) için yapay zeka destekli öğrenme platformu (Python, MIT License)
+| [`kiro-insider-tools`](https://github.com/cenktekin/kiro-insider-tools) | Kiro IDE insider build'lerini bulmak ve indirmek için geliştirilmiş Python aracı (Python, MIT License)
 
 ---
 
@@ -40,17 +44,19 @@
 
 | Alan | Açıklama |
 |------|----------|
-| 🔁 Otomasyon | `topgrade`, `dnf`, `gitfix.sh` gibi üretkenlik scriptleri  
-| 🧠 Prompt mühendisliği | Firefox AI, ChatGPTBox, özel prompt setleri  
-| 🎨 Tarayıcı özelleştirme | Sidebery, CSS modülleri, eklenti hack’leri  
-| 🤖 AI uygulamaları | Multi-agent sistemler, öneri motorları, veri sınıflandırma  
-| 📚 Teknik sadeleştirme | Karmaşık bilgiyi rehber ve tweet formatında sunma  
+| 🔁 Otomasyon | `topgrade`, `dnf`, `gitfix.sh` gibi üretkenlik scriptleri
+| 🧠 Prompt mühendisliği | Firefox AI, ChatGPTBox, özel prompt setleri
+| 🎨 Tarayıcı özelleştirme | Sidebery, CSS modülleri, eklenti hack'leri
+| 🤖 AI uygulamaları | Multi-agent sistemler, öneri motorları, veri sınıflandırma, sınav hazırlık platformları
+| 📊 Veri görselleştirme | Deprem verileri, finansal analizler, interaktif eğitim uygulamaları
+| 🎮 Eğitim uygulamaları | Satranç son oyunları, sınav hazırlık platformları
+| 📚 Teknik sadeleştirme | Karmaşık bilgiyi rehber ve tweet formatında sunma
 
 ---
 
 ## 👨‍💻 Kodlama Maceram
 
-Linux ve açık kaynak dünyasında üretkenlik odaklı araçlar geliştiriyorum — sistem güncellemeleri, repo yönetimi, tarayıcı özelleştirmeleri ve AI entegrasyonları gibi alanlarda. Python, JavaScript ve TypeScript ile hem komut satırı araçları hem de web tabanlı uygulamalar geliştiriyorum. Kod benim için sadece üretim değil; aynı zamanda bilgiyi sadeleştirmenin, paylaşmanın ve topluluğa katkı sağlamanın bir yolu.
+Linux ve açık kaynak dünyasında üretkenlik odaklı araçlar geliştiriyorum — sistem güncellemeleri, repo yönetimi, tarayıcı özelleştirmeleri, AI entegrasyonları, veri görselleştirme ve eğitim uygulamaları gibi alanlarda. Python, JavaScript ve TypeScript ile hem komut satırı araçları hem de web tabanlı uygulamalar geliştiriyorum. Kod benim için sadece üretim değil; aynı zamanda bilgiyi sadeleştirmenin, paylaşmanın ve topluluğa katkı sağlamanın bir yolu.
 
 Her yeni çözümde şu soruyu soruyorum:
 
