@@ -25,6 +25,7 @@
 | Proje | Açıklama |
 |-------|----------|
 | [`joplin-auto-tagger`](https://github.com/cenktekin/joplin-auto-tagger) | Joplin notları için AI destekli etiket öneri sistemi (Gemini/OpenRouter destekli) |
+| [`auto-scroller-extension`](https://github.com/cenktekin/auto-scroller-extension) | Web sayfalarını otomatik kaydıran tarayıcı eklentisi (okuma ve demo senaryoları için) |
 | [`kariyer-pusulasi-ai`](https://github.com/cenktekin/kariyer-pusulasi-ai) *(private)* | TYT–AYT verilerine göre lise öğrencilerine uygun bölüm ve kariyer öneren AI destekli rehber |
 | [`kariyer-pusulasi-data`](https://github.com/cenktekin/kariyer-pusulasi-data) | Türkiye üniversite ve bölüm verilerini içeren açık kaynak veri seti |
 | [`free-ai-coding`](https://github.com/cenktekin/free-ai-coding) *(fork)* | Ücretsiz GPT-5, Claude Opus/Sonnet gibi modelleri sıralayan AI kodlama araçları listesi |
@@ -44,7 +45,7 @@
 |------|----------|
 | 🔁 Otomasyon | `topgrade`, `dnf`, `gitfix.sh` gibi üretkenlik scriptleri |
 | 🧠 Prompt mühendisliği | Firefox AI, ChatGPTBox, özel prompt setleri |
-| 🎨 Tarayıcı özelleştirme | Sidebery, CSS modülleri, eklenti hack'leri |
+| 🎨 Tarayıcı özelleştirme | Sidebery, CSS modülleri, tarayıcı eklentileri (WebExtensions) |
 | 🤖 AI uygulamaları | Multi-agent sistemler, öneri motorları, veri sınıflandırma, sınav hazırlık platformları |
 | 📊 Veri görselleştirme | Deprem verileri, finansal analizler, interaktif eğitim uygulamaları |
 | 🎮 Eğitim uygulamaları | Satranç son oyunları, sınav hazırlık platformları |
