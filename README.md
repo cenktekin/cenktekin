@@ -4,6 +4,8 @@
 
 ---
 
+> Son güncelleme: 2025-08-29
+
 ## 🚀 Ne Yapıyorum?
 
 - 🧠 Bilgiyi sadeleştirip paylaşıyorum:  
@@ -22,20 +24,30 @@
 
 ## 🧪 Son Dönem Projelerim
 
+### Seçme Projeler
+
 | Proje | Açıklama |
 |-------|----------|
-| [`joplin-auto-tagger`](https://github.com/cenktekin/joplin-auto-tagger) | Joplin notları için AI destekli etiket öneri sistemi (Gemini/OpenRouter destekli) |
-| [`auto-scroller-extension`](https://github.com/cenktekin/auto-scroller-extension) | Web sayfalarını otomatik kaydıran tarayıcı eklentisi (okuma ve demo senaryoları için) |
-| [`kariyer-pusulasi-ai`](https://github.com/cenktekin/kariyer-pusulasi-ai) *(private)* | TYT–AYT verilerine göre lise öğrencilerine uygun bölüm ve kariyer öneren AI destekli rehber |
-| [`kariyer-pusulasi-data`](https://github.com/cenktekin/kariyer-pusulasi-data) | Türkiye üniversite ve bölüm verilerini içeren açık kaynak veri seti |
-| [`free-ai-coding`](https://github.com/cenktekin/free-ai-coding) *(fork)* | Ücretsiz GPT-5, Claude Opus/Sonnet gibi modelleri sıralayan AI kodlama araçları listesi |
-| [`kariyer-pusulasi`](https://github.com/cenktekin/kariyer-pusulasi) *(private)* | Lise öğrencileri için AI destekli kariyer rehberi platformu (TypeScript) |
-| [`akilli-rota-ai`](https://github.com/cenktekin/akilli-rota-ai) *(private)* | Kişiselleştirilmiş seyahat öneri motoru — AI destekli rota planlama |
-| [`ascii-generator`](https://github.com/cenktekin/ascii-generator) | Terminalde ASCII sanat üretimi yapan Python betiği |
-| [`digital-diary`](https://github.com/cenktekin/digital-diary) | Tarayıcı geçmişini analiz ederek günlük dijital aktivite özeti çıkaran kişisel günlük uygulaması |
-| [`study-assistant-ai`](https://github.com/cenktekin/study-assistant-ai) *(private)* | Türkiye sınavları için Gemini destekli AI öğrenme platformu (YKS, ALES, KPSS, DGS, MSÜ) |
-| [`markdown-bookmarks-converter`](https://github.com/cenktekin/markdown-bookmarks-converter) | Büyük markdown dosyalarını tarayıcı uyumlu yer imlerine dönüştüren güçlü araç |
-| [`sismolog`](https://github.com/cenktekin/sismolog) | Türkiye’deki deprem verilerini gerçek zamanlı takip ve görselleştiren modern web uygulaması |
+| [`kde-profile-backup`](https://github.com/cenktekin/kde-profile-backup) | KDE Plasma ayarlarını (konsave), distro paket listesini, Flatpak uygulamalarını ve ek kullanıcı verilerini yedekleyip geri yükleyen komut satırı aracı (Python) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--08--29-blue) |
+| [`joplin-auto-tagger`](https://github.com/cenktekin/joplin-auto-tagger) | Joplin notları için AI destekli etiket öneri sistemi (Gemini/OpenRouter destekli) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [`auto-scroller-extension`](https://github.com/cenktekin/auto-scroller-extension) | Web sayfalarını otomatik kaydıran tarayıcı eklentisi (okuma ve demo senaryoları için) ![WebExtension](https://img.shields.io/badge/WebExtension-FF7139?logo=firefoxbrowser&logoColor=white) |
+| [`kariyer-pusulasi-data`](https://github.com/cenktekin/kariyer-pusulasi-data) | Türkiye üniversite ve bölüm verilerini içeren açık kaynak veri seti ![Data](https://img.shields.io/badge/Data-4CAF50) |
+| [`free-ai-coding`](https://github.com/cenktekin/free-ai-coding) *(fork)* | Ücretsiz GPT-5, Claude Opus/Sonnet gibi modelleri sıralayan AI kodlama araçları listesi ![List](https://img.shields.io/badge/List-999) |
+| [`ascii-generator`](https://github.com/cenktekin/ascii-generator) | Terminalde ASCII sanat üretimi yapan Python betiği ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| [`digital-diary`](https://github.com/cenktekin/digital-diary) | Tarayıcı geçmişini analiz ederek günlük dijital aktivite özeti çıkaran kişisel günlük uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [`markdown-bookmarks-converter`](https://github.com/cenktekin/markdown-bookmarks-converter) | Büyük markdown dosyalarını tarayıcı uyumlu yer imlerine dönüştüren güçlü araç ![Tool](https://img.shields.io/badge/Tool-555) |
+| [`sismolog`](https://github.com/cenktekin/sismolog) | Türkiye’deki deprem verilerini gerçek zamanlı takip ve görselleştiren modern web uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+
+### Deneysel / Özel
+
+| Proje | Açıklama |
+|-------|----------|
+| [`timeline-generator`](https://github.com/cenktekin/timeline-generator) *(private)* | AI ile herhangi bir konu için etkileşimli tarih çizelgesi üreten web uygulaması (React, TypeScript, Tailwind CSS) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--08--28-blue) |
+| [`earth-history-timeline`](https://github.com/cenktekin/earth-history-timeline) *(private)* | Dünyanın 4.6 milyar yıllık jeolojik ve biyolojik tarihini zengin görselleştirmelerle sunan premium web uygulaması (TypeScript) — MIT Lisansı ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-green) ![Updated](https://img.shields.io/badge/updated-2025--08--26-blue) |
+| [`kariyer-pusulasi-ai`](https://github.com/cenktekin/kariyer-pusulasi-ai) *(private)* | TYT–AYT verilerine göre lise öğrencilerine uygun bölüm ve kariyer öneren AI destekli rehber ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [`kariyer-pusulasi`](https://github.com/cenktekin/kariyer-pusulasi) *(private)* | Lise öğrencileri için AI destekli kariyer rehberi platformu (TypeScript) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [`akilli-rota-ai`](https://github.com/cenktekin/akilli-rota-ai) *(private)* | Kişiselleştirilmiş seyahat öneri motoru — AI destekli rota planlama ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [`study-assistant-ai`](https://github.com/cenktekin/study-assistant-ai) *(private)* | Türkiye sınavları için Gemini destekli AI öğrenme platformu (YKS, ALES, KPSS, DGS, MSÜ) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 
 ---
 
