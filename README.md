@@ -4,7 +4,7 @@
 
 ---
 
-> Son güncelleme: 2025-08-29
+> Son güncelleme: 2025-09-06
 
 ## 🚀 Ne Yapıyorum?
 
@@ -15,7 +15,7 @@
   Bash, Python, TypeScript ile üretkenlik scriptleri, AI destekli uygulamalar ve tarayıcı eklentileri geliştiriyorum.
 
 - 🤖 AI ile çalışıyorum:  
-  Prompt mühendisliği, AI destekli seyahat öneri sistemleri, yer imi sınıflandırıcılar, multi-agent tarayıcı otomasyonları ve sınav hazırlık platformları üzerine projelerim var.
+  Prompt mühendisliği, AI destekli seyahat öneri sistemleri, yer imi sınıflandırıcılar, multi-agent tarayıcı otomasyonları, sınav hazırlık platformları, akıllı arama sorguları ve stratejik analiz araçları üzerine projelerim var.
 
 - 📚 Sürekli öğreniyorum:  
   Kitaplar, yeni teknolojiler ve felsefi metinler arasında sürekli gelişim peşindeyim.
@@ -37,6 +37,8 @@
 | [`digital-diary`](https://github.com/cenktekin/digital-diary) | Tarayıcı geçmişini analiz ederek günlük dijital aktivite özeti çıkaran kişisel günlük uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | [`markdown-bookmarks-converter`](https://github.com/cenktekin/markdown-bookmarks-converter) | Büyük markdown dosyalarını tarayıcı uyumlu yer imlerine dönüştüren güçlü araç ![Tool](https://img.shields.io/badge/Tool-555) |
 | [`sismolog`](https://github.com/cenktekin/sismolog) | Türkiye’deki deprem verilerini gerçek zamanlı takip ve görselleştiren modern web uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| [`smart-search`](https://github.com/cenktekin/smart-search) | Akıllı arama sorgusu oluşturucu ve AI destekli query builder. Kullanıcıların doğal dil ile arama sorguları oluşturmasını, Google arama operatörlerini kullanarak daha etkili sonuçlar almasını sağlar. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
+| [`Bir-Islem`](https://github.com/cenktekin/Bir-Islem) | Bir Kelime Bir İşlem oyunu. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--09--01-blue) |
 
 ### Deneysel / Özel
 
@@ -48,6 +50,8 @@
 | [`kariyer-pusulasi`](https://github.com/cenktekin/kariyer-pusulasi) *(private)* | Lise öğrencileri için AI destekli kariyer rehberi platformu (TypeScript) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | [`akilli-rota-ai`](https://github.com/cenktekin/akilli-rota-ai) *(private)* | Kişiselleştirilmiş seyahat öneri motoru — AI destekli rota planlama ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | [`study-assistant-ai`](https://github.com/cenktekin/study-assistant-ai) *(private)* | Türkiye sınavları için Gemini destekli AI öğrenme platformu (YKS, ALES, KPSS, DGS, MSÜ) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [`stratejik-analiz-ai`](https://github.com/cenktekin/stratejik-analiz-ai) *(private)* | Yapay zeka destekli pazar araştırması ve stratejik analiz platformu. Kullanıcılar fikirlerini/parametrelerini girer; sistem pazar analizi, SWOT, PESTLE, rekabet analizi ve yol haritasını otomatik üretir. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
+| [`aura-oldies`](https://github.com/cenktekin/aura-oldies) *(private)* | Aura, bir uygulamadan öte bir yoldaştır. Empati ve sadelikle tasarlanmış Aura, yaşlı bireylerin duyulmuş, desteklenmiş ve bağlı hissetmesine yardımcı olur. Sıcak bir sohbet, nazik bir hatırlatma veya paylaşılan bir an olsun, Aura günlük hayata konfor ve neşe getirir. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--09--01-blue) |
 
 ---
 
@@ -58,10 +62,11 @@
 | 🔁 Otomasyon | `topgrade`, `dnf`, `gitfix.sh` gibi üretkenlik scriptleri |
 | 🧠 Prompt mühendisliği | Firefox AI, ChatGPTBox, özel prompt setleri |
 | 🎨 Tarayıcı özelleştirme | Sidebery, CSS modülleri, tarayıcı eklentileri (WebExtensions) |
-| 🤖 AI uygulamaları | Multi-agent sistemler, öneri motorları, veri sınıflandırma, sınav hazırlık platformları |
+| 🤖 AI uygulamaları | Multi-agent sistemler, öneri motorları, veri sınıflandırma, sınav hazırlık platformları, akıllı arama sorguları |
 | 📊 Veri görselleştirme | Deprem verileri, finansal analizler, interaktif eğitim uygulamaları |
 | 🎮 Eğitim uygulamaları | Satranç son oyunları, sınav hazırlık platformları |
 | 📚 Teknik sadeleştirme | Karmaşık bilgiyi rehber ve tweet formatında sunma |
+| 📈 Stratejik AI Analiz | Pazar araştırması, SWOT/PESTLE analizleri ve yol haritası oluşturma araçları |
 
 ---
 
@@ -107,6 +112,5 @@ Bu yüzden projelerimi Gist, blog ve tweet-ready formatlarda sunuyor; teknik der
 ## 🤝 Katkı & İşbirliği
 
 Açık kaynak projelere katkı sunmak, eğitim platformları geliştirmek veya AI destekli üretkenlik araçları üzerine birlikte çalışmak istersen — mesaj kutum her zaman açık!
-
 
 📦 Güncel repolarım: [github.com/cenktekin?tab=repositories](https://github.com/cenktekin?tab=repositories)
