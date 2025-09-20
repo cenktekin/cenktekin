@@ -4,7 +4,7 @@
 
 ---
 
-> Son güncelleme: 2025-09-06
+> Son güncelleme: 2025-09-20
 
 ## 🚀 Ne Yapıyorum?
 
@@ -28,7 +28,20 @@
 
 | Proje | Açıklama |
 |-------|----------|
-| [`kde-profile-backup`](https://github.com/cenktekin/kde-profile-backup) | KDE Plasma ayarlarını (konsave), distro paket listesini, Flatpak uygulamalarını ve ek kullanıcı verilerini yedekleyip geri yükleyen komut satırı aracı (Python) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--08--29-blue) |
+| [`todoist-subtask-generator`](https://github.com/cenktekin/todoist-subtask-generator) | Todoist üzerindeki task'ları seçerek AI yardımıyla subtask'lara ayıran ve deadline'a göre tarihlendiren uygulama ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--09--20-blue) |
+| [`sahte-haber`](https://github.com/cenktekin/sahte-haber) | Özellikle yaşlı kullanıcılar için tasarlanmış tarayıcı eklentisi. Sahte haberleri ve dolandırıcılık girişimlerini tespit ederek kullanıcıları korur ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
+| [`checklearn`](https://github.com/cenktekin/checklearn) *(fork)* | Satranç son oyunu eğitimi için interaktif uygulama. En basit pozisyonlardan en karmaşık durumlara kadar kapsamlı endgame koleksiyonu ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue) ![Updated](https://img.shields.io/badge/updated-2025--09--13-blue) |
+| [`kde-profile-backup`](https://github.com/cenktekin/kde-profile-backup) | KDE Plasma ayarlarını (konsave), distro paket listesini, Flatpak uygulamalarını ve ek kullanıcı verilerini yedekleyip geri yükleyen komut satırı aracı ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--08--29-blue) |
+| [`joplin-auto-tagger`](https://github.com/cenktekin/joplin-auto-tagger) | Joplin notları için AI destekli etiket öneri sistemi (Gemini/OpenRouter destekli) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [`auto-scroller-extension`](https://github.com/cenktekin/auto-scroller-extension) | Web sayfalarını otomatik kaydıran tarayıcı eklentisi (okuma ve demo senaryoları için) ![WebExtension](https://img.shields.io/badge/WebExtension-FF7139?logo=firefoxbrowser&logoColor=white) |
+| [`kariyer-pusulasi-data`](https://github.com/cenktekin/kariyer-pusulasi-data) | Türkiye üniversite ve bölüm verilerini içeren açık kaynak veri seti ![Data](https://img.shields.io/badge/Data-4CAF50) |
+| [`free-ai-coding`](https://github.com/cenktekin/free-ai-coding) *(fork)* | Ücretsiz GPT-5, Claude Opus/Sonnet gibi modelleri sıralayan AI kodlama araçları listesi ![List](https://img.shields.io/badge/List-999) |
+| [`ascii-generator`](https://github.com/cenktekin/ascii-generator) | Terminalde ASCII sanat üretimi yapan Python betiği ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| [`digital-diary`](https://github.com/cenktekin/digital-diary) | Tarayıcı geçmişini analiz ederek günlük dijital aktivite özeti çıkaran kişisel günlük uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [`markdown-bookmarks-converter`](https://github.com/cenktekin/markdown-bookmarks-converter) | Büyük markdown dosyalarını tarayıcı uyumlu yer imlerine dönüştüren güçlü araç ![Tool](https://img.shields.io/badge/Tool-555) |
+| [`sismolog`](https://github.com/cenktekin/sismolog) | Türkiye'deki deprem verilerini gerçek zamanlı takip ve görselleştiren modern web uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| [`smart-search`](https://github.com/cenktekin/smart-search) | Akıllı arama sorgusu oluşturucu ve AI destekli query builder. Kullanıcıların doğal dil ile arama sorguları oluşturmasını, Google arama operatörlerini kullanarak daha etkili sonuçlar almasını sağlar ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
+| [`Bir-Islem`](https://github.com/cenktekin/Bir-Islem) | Bir Kelime Bir İşlem oyunu ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--08--31-blue) |
 | [`joplin-auto-tagger`](https://github.com/cenktekin/joplin-auto-tagger) | Joplin notları için AI destekli etiket öneri sistemi (Gemini/OpenRouter destekli) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | [`auto-scroller-extension`](https://github.com/cenktekin/auto-scroller-extension) | Web sayfalarını otomatik kaydıran tarayıcı eklentisi (okuma ve demo senaryoları için) ![WebExtension](https://img.shields.io/badge/WebExtension-FF7139?logo=firefoxbrowser&logoColor=white) |
 | [`kariyer-pusulasi-data`](https://github.com/cenktekin/kariyer-pusulasi-data) | Türkiye üniversite ve bölüm verilerini içeren açık kaynak veri seti ![Data](https://img.shields.io/badge/Data-4CAF50) |
@@ -38,19 +51,20 @@
 | [`markdown-bookmarks-converter`](https://github.com/cenktekin/markdown-bookmarks-converter) | Büyük markdown dosyalarını tarayıcı uyumlu yer imlerine dönüştüren güçlü araç ![Tool](https://img.shields.io/badge/Tool-555) |
 | [`sismolog`](https://github.com/cenktekin/sismolog) | Türkiye’deki deprem verilerini gerçek zamanlı takip ve görselleştiren modern web uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [`smart-search`](https://github.com/cenktekin/smart-search) | Akıllı arama sorgusu oluşturucu ve AI destekli query builder. Kullanıcıların doğal dil ile arama sorguları oluşturmasını, Google arama operatörlerini kullanarak daha etkili sonuçlar almasını sağlar. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
-| [`Bir-Islem`](https://github.com/cenktekin/Bir-Islem) | Bir Kelime Bir İşlem oyunu. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--09--01-blue) |
+| [`Bir-Islem`](https://github.com/cenktekin/Bir-Islem) | Bir Kelime Bir İşlem oyunu ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--08--31-blue) |
 
 ### Deneysel / Özel
 
 | Proje | Açıklama |
 |-------|----------|
+| [`gunluk-bulmaca`](https://github.com/cenktekin/gunluk-bulmaca) *(private)* | Kullanıcılara her gün farklı zorluk seviyelerinde mantık bulmacaları sunan web uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![Updated](https://img.shields.io/badge/updated-2025--09--13-blue) |
 | [`timeline-generator`](https://github.com/cenktekin/timeline-generator) *(private)* | AI ile herhangi bir konu için etkileşimli tarih çizelgesi üreten web uygulaması (React, TypeScript, Tailwind CSS) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--08--28-blue) |
 | [`earth-history-timeline`](https://github.com/cenktekin/earth-history-timeline) *(private)* | Dünyanın 4.6 milyar yıllık jeolojik ve biyolojik tarihini zengin görselleştirmelerle sunan premium web uygulaması (TypeScript) — MIT Lisansı ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-green) ![Updated](https://img.shields.io/badge/updated-2025--08--26-blue) |
 | [`kariyer-pusulasi-ai`](https://github.com/cenktekin/kariyer-pusulasi-ai) *(private)* | TYT–AYT verilerine göre lise öğrencilerine uygun bölüm ve kariyer öneren AI destekli rehber ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | [`kariyer-pusulasi`](https://github.com/cenktekin/kariyer-pusulasi) *(private)* | Lise öğrencileri için AI destekli kariyer rehberi platformu (TypeScript) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | [`akilli-rota-ai`](https://github.com/cenktekin/akilli-rota-ai) *(private)* | Kişiselleştirilmiş seyahat öneri motoru — AI destekli rota planlama ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | [`study-assistant-ai`](https://github.com/cenktekin/study-assistant-ai) *(private)* | Türkiye sınavları için Gemini destekli AI öğrenme platformu (YKS, ALES, KPSS, DGS, MSÜ) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [`stratejik-analiz-ai`](https://github.com/cenktekin/stratejik-analiz-ai) *(private)* | Yapay zeka destekli pazar araştırması ve stratejik analiz platformu. Kullanıcılar fikirlerini/parametrelerini girer; sistem pazar analizi, SWOT, PESTLE, rekabet analizi ve yol haritasını otomatik üretir. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
+| [`stratejik-analiz-ai`](https://github.com/cenktekin/stratejik-analiz-ai) *(private)* | Yapay zeka destekli pazar araştırması ve stratejik analiz platformu. Kullanıcılar fikirlerini/parametrelerini girer; sistem pazar analizi, SWOT, PESTLE, rekabet analizi ve yol haritasını otomatik üretir ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
 | [`aura-oldies`](https://github.com/cenktekin/aura-oldies) *(private)* | Aura, bir uygulamadan öte bir yoldaştır. Empati ve sadelikle tasarlanmış Aura, yaşlı bireylerin duyulmuş, desteklenmiş ve bağlı hissetmesine yardımcı olur. Sıcak bir sohbet, nazik bir hatırlatma veya paylaşılan bir an olsun, Aura günlük hayata konfor ve neşe getirir. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--09--01-blue) |
 
 ---
@@ -64,9 +78,11 @@
 | 🎨 Tarayıcı özelleştirme | Sidebery, CSS modülleri, tarayıcı eklentileri (WebExtensions) |
 | 🤖 AI uygulamaları | Multi-agent sistemler, öneri motorları, veri sınıflandırma, sınav hazırlık platformları, akıllı arama sorguları |
 | 📊 Veri görselleştirme | Deprem verileri, finansal analizler, interaktif eğitim uygulamaları |
-| 🎮 Eğitim uygulamaları | Satranç son oyunları, sınav hazırlık platformları |
+| 🎮 Eğitim uygulamaları | Satranç son oyunları, sınav hazırlık platformları, günlük mantık bulmacaları |
 | 📚 Teknik sadeleştirme | Karmaşık bilgiyi rehber ve tweet formatında sunma |
 | 📈 Stratejik AI Analiz | Pazar araştırması, SWOT/PESTLE analizleri ve yol haritası oluşturma araçları |
+| 🛡️ Güvenlik ve Koruma | Sahte haber tespiti, yaşlılar için siber güvenlik çözümleri |
+| ⚡ Üretkenlik Araçları | Task yönetimi, subtask oluşturma, AI destekli planlama |
 
 ---
 
