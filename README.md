@@ -1,132 +1,101 @@
 # 🌟 Merhaba, Ben Cenk Tekin! 🌟  
-**Proje yöneticiliğinden üretken geliştiriciliğe uzanan bir yolculuk.**  
-30 yıllık deneyimle şimdi açık kaynak, otomasyon ve AI destekli projelerle topluluğa katkı sağlıyorum.
+**Proje yöneticiliğinden otonom sistem mimarlığına uzanan 30 yıllık bir serüven.**  
+Açık kaynak dünyasında, "Safkan v3.0" standartlarıyla AI destekli otomasyonlar, stratejik analiz araçları ve toplumsal fayda odaklı platformlar geliştiriyorum.
 
 ---
 
-> Son güncelleme: 2025-09-20
+> **Son Güncelleme:** 30 Mart 2026 | **Mod:** Safkan v3.0 (Hızır Edition)
 
-## 🚀 Ne Yapıyorum?
-
-- 🧠 Bilgiyi sadeleştirip paylaşıyorum:  
-  GitHub, LinkedIn ve blog üzerinden teknik içerikler, rehberler ve üretkenlik araçları sunuyorum.
-
-- 🛠️ Kod yazıyorum, otomasyon geliştiriyorum:  
-  Bash, Python, TypeScript ile üretkenlik scriptleri, AI destekli uygulamalar ve tarayıcı eklentileri geliştiriyorum.
-
-- 🤖 AI ile çalışıyorum:  
-  Prompt mühendisliği, AI destekli seyahat öneri sistemleri, yer imi sınıflandırıcılar, multi-agent tarayıcı otomasyonları, sınav hazırlık platformları, akıllı arama sorguları ve stratejik analiz araçları üzerine projelerim var.
-
-- 📚 Sürekli öğreniyorum:  
-  Kitaplar, yeni teknolojiler ve felsefi metinler arasında sürekli gelişim peşindeyim.
-
----
-
-## 🧪 Son Dönem Projelerim
-
-### Seçme Projeler
+## 🏛️ Mimari Temeller (Foundation)
+Bu projeler, tüm ekosistemin "Anayasasını" ve "Mimarini" belirleyen ata projelerdir.
 
 | Proje | Açıklama |
 |-------|----------|
-| [`todoist-subtask-generator`](https://github.com/cenktekin/todoist-subtask-generator) | Todoist üzerindeki task'ları seçerek AI yardımıyla subtask'lara ayıran ve deadline'a göre tarihlendiren uygulama ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--09--20-blue) |
-| [`sahte-haber`](https://github.com/cenktekin/sahte-haber) | Özellikle yaşlı kullanıcılar için tasarlanmış tarayıcı eklentisi. Sahte haberleri ve dolandırıcılık girişimlerini tespit ederek kullanıcıları korur ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
-| [`checklearn`](https://github.com/cenktekin/checklearn) *(fork)* | Satranç son oyunu eğitimi için interaktif uygulama. En basit pozisyonlardan en karmaşık durumlara kadar kapsamlı endgame koleksiyonu ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue) ![Updated](https://img.shields.io/badge/updated-2025--09--13-blue) |
-| [`kde-profile-backup`](https://github.com/cenktekin/kde-profile-backup) | KDE Plasma ayarlarını (konsave), distro paket listesini, Flatpak uygulamalarını ve ek kullanıcı verilerini yedekleyip geri yükleyen komut satırı aracı ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--08--29-blue) |
-| [`joplin-auto-tagger`](https://github.com/cenktekin/joplin-auto-tagger) | Joplin notları için AI destekli etiket öneri sistemi (Gemini/OpenRouter destekli) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [`auto-scroller-extension`](https://github.com/cenktekin/auto-scroller-extension) | Web sayfalarını otomatik kaydıran tarayıcı eklentisi (okuma ve demo senaryoları için) ![WebExtension](https://img.shields.io/badge/WebExtension-FF7139?logo=firefoxbrowser&logoColor=white) |
-| [`kariyer-pusulasi-data`](https://github.com/cenktekin/kariyer-pusulasi-data) | Türkiye üniversite ve bölüm verilerini içeren açık kaynak veri seti ![Data](https://img.shields.io/badge/Data-4CAF50) |
-| [`free-ai-coding`](https://github.com/cenktekin/free-ai-coding) *(fork)* | Ücretsiz GPT-5, Claude Opus/Sonnet gibi modelleri sıralayan AI kodlama araçları listesi ![List](https://img.shields.io/badge/List-999) |
-| [`ascii-generator`](https://github.com/cenktekin/ascii-generator) | Terminalde ASCII sanat üretimi yapan Python betiği ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [`digital-diary`](https://github.com/cenktekin/digital-diary) | Tarayıcı geçmişini analiz ederek günlük dijital aktivite özeti çıkaran kişisel günlük uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [`markdown-bookmarks-converter`](https://github.com/cenktekin/markdown-bookmarks-converter) | Büyük markdown dosyalarını tarayıcı uyumlu yer imlerine dönüştüren güçlü araç ![Tool](https://img.shields.io/badge/Tool-555) |
-| [`sismolog`](https://github.com/cenktekin/sismolog) | Türkiye'deki deprem verilerini gerçek zamanlı takip ve görselleştiren modern web uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| [`smart-search`](https://github.com/cenktekin/smart-search) | Akıllı arama sorgusu oluşturucu ve AI destekli query builder. Kullanıcıların doğal dil ile arama sorguları oluşturmasını, Google arama operatörlerini kullanarak daha etkili sonuçlar almasını sağlar ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
-| [`Bir-Islem`](https://github.com/cenktekin/Bir-Islem) | Bir Kelime Bir İşlem oyunu ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--08--31-blue) |
-| [`joplin-auto-tagger`](https://github.com/cenktekin/joplin-auto-tagger) | Joplin notları için AI destekli etiket öneri sistemi (Gemini/OpenRouter destekli) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [`auto-scroller-extension`](https://github.com/cenktekin/auto-scroller-extension) | Web sayfalarını otomatik kaydıran tarayıcı eklentisi (okuma ve demo senaryoları için) ![WebExtension](https://img.shields.io/badge/WebExtension-FF7139?logo=firefoxbrowser&logoColor=white) |
-| [`kariyer-pusulasi-data`](https://github.com/cenktekin/kariyer-pusulasi-data) | Türkiye üniversite ve bölüm verilerini içeren açık kaynak veri seti ![Data](https://img.shields.io/badge/Data-4CAF50) |
-| [`free-ai-coding`](https://github.com/cenktekin/free-ai-coding) *(fork)* | Ücretsiz GPT-5, Claude Opus/Sonnet gibi modelleri sıralayan AI kodlama araçları listesi ![List](https://img.shields.io/badge/List-999) |
-| [`ascii-generator`](https://github.com/cenktekin/ascii-generator) | Terminalde ASCII sanat üretimi yapan Python betiği ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [`digital-diary`](https://github.com/cenktekin/digital-diary) | Tarayıcı geçmişini analiz ederek günlük dijital aktivite özeti çıkaran kişisel günlük uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [`markdown-bookmarks-converter`](https://github.com/cenktekin/markdown-bookmarks-converter) | Büyük markdown dosyalarını tarayıcı uyumlu yer imlerine dönüştüren güçlü araç ![Tool](https://img.shields.io/badge/Tool-555) |
-| [`sismolog`](https://github.com/cenktekin/sismolog) | Türkiye’deki deprem verilerini gerçek zamanlı takip ve görselleştiren modern web uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| [`smart-search`](https://github.com/cenktekin/smart-search) | Akıllı arama sorgusu oluşturucu ve AI destekli query builder. Kullanıcıların doğal dil ile arama sorguları oluşturmasını, Google arama operatörlerini kullanarak daha etkili sonuçlar almasını sağlar. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
-| [`Bir-Islem`](https://github.com/cenktekin/Bir-Islem) | Bir Kelime Bir İşlem oyunu ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--08--31-blue) |
+| [**`The Council OS`**](https://github.com/cenktekin/the-council-os) | **Ata Proje.** Maestro katmanı. Tüm Safkan sistemlerin mimari kökü ve karar mekanizması. |
+| [**`Safkan Audit`**](https://github.com/cenktekin/safkan-audit) | Projelerin yapısal bütünlüğünü, dökümantasyon standartlarını ve kod kalitesini otonom olarak denetleyen "Safkan" bekçisi. |
 
-### Deneysel / Özel
+---
+
+## 🚀 The Bridge: Fikirden Gerçeğe (Idea to Reality)
+Fikir üretmekten, projeyi otonom olarak ayağa kaldırmaya kadar giden kesintisiz akış.
 
 | Proje | Açıklama |
 |-------|----------|
-| [`gunluk-bulmaca`](https://github.com/cenktekin/gunluk-bulmaca) *(private)* | Kullanıcılara her gün farklı zorluk seviyelerinde mantık bulmacaları sunan web uygulaması ![Web App](https://img.shields.io/badge/Web%20App-0A66C2) ![Updated](https://img.shields.io/badge/updated-2025--09--13-blue) |
-| [`timeline-generator`](https://github.com/cenktekin/timeline-generator) *(private)* | AI ile herhangi bir konu için etkileşimli tarih çizelgesi üreten web uygulaması (React, TypeScript, Tailwind CSS) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--08--28-blue) |
-| [`earth-history-timeline`](https://github.com/cenktekin/earth-history-timeline) *(private)* | Dünyanın 4.6 milyar yıllık jeolojik ve biyolojik tarihini zengin görselleştirmelerle sunan premium web uygulaması (TypeScript) — MIT Lisansı ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-green) ![Updated](https://img.shields.io/badge/updated-2025--08--26-blue) |
-| [`kariyer-pusulasi-ai`](https://github.com/cenktekin/kariyer-pusulasi-ai) *(private)* | TYT–AYT verilerine göre lise öğrencilerine uygun bölüm ve kariyer öneren AI destekli rehber ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [`kariyer-pusulasi`](https://github.com/cenktekin/kariyer-pusulasi) *(private)* | Lise öğrencileri için AI destekli kariyer rehberi platformu (TypeScript) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [`akilli-rota-ai`](https://github.com/cenktekin/akilli-rota-ai) *(private)* | Kişiselleştirilmiş seyahat öneri motoru — AI destekli rota planlama ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [`study-assistant-ai`](https://github.com/cenktekin/study-assistant-ai) *(private)* | Türkiye sınavları için Gemini destekli AI öğrenme platformu (YKS, ALES, KPSS, DGS, MSÜ) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [`stratejik-analiz-ai`](https://github.com/cenktekin/stratejik-analiz-ai) *(private)* | Yapay zeka destekli pazar araştırması ve stratejik analiz platformu. Kullanıcılar fikirlerini/parametrelerini girer; sistem pazar analizi, SWOT, PESTLE, rekabet analizi ve yol haritasını otomatik üretir ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Updated](https://img.shields.io/badge/updated-2025--09--06-blue) |
-| [`aura-oldies`](https://github.com/cenktekin/aura-oldies) *(private)* | Aura, bir uygulamadan öte bir yoldaştır. Empati ve sadelikle tasarlanmış Aura, yaşlı bireylerin duyulmuş, desteklenmiş ve bağlı hissetmesine yardımcı olur. Sıcak bir sohbet, nazik bir hatırlatma veya paylaşılan bir an olsun, Aura günlük hayata konfor ve neşe getirir. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Updated](https://img.shields.io/badge/updated-2025--09--01-blue) |
+| [**`Idea Forge`** (ideagenerator)](https://github.com/cenktekin/ideagenerator) | Safkan v3.0 standartlarında proje fikirleri üreten ve saniyeler içinde tam dökümantasyon (`PLAYBOOK.md`, `WBS`) hazırlayan **Proje Fabrikası**. |
+| [**`Project Starter`**](https://github.com/cenktekin/project-starter) | Yeni projeleri 'doğurtan' (Seeder) ve yaşayan projeleri otonom olarak denetleyen (Auditor) Hızır Edition CLI aracı. |
 
 ---
 
-## 🧩 Teknik İlgi Alanlarım
+## 🤖 Agentic & Stratejik AI
+Zekayı eyleme dönüştüren, strateji ve üretkenlik odaklı araçlar.
 
-| Alan | Açıklama |
-|------|----------|
-| 🔁 Otomasyon | `topgrade`, `dnf`, `gitfix.sh` gibi üretkenlik scriptleri |
-| 🧠 Prompt mühendisliği | Firefox AI, ChatGPTBox, özel prompt setleri |
-| 🎨 Tarayıcı özelleştirme | Sidebery, CSS modülleri, tarayıcı eklentileri (WebExtensions) |
-| 🤖 AI uygulamaları | Multi-agent sistemler, öneri motorları, veri sınıflandırma, sınav hazırlık platformları, akıllı arama sorguları |
-| 📊 Veri görselleştirme | Deprem verileri, finansal analizler, interaktif eğitim uygulamaları |
-| 🎮 Eğitim uygulamaları | Satranç son oyunları, sınav hazırlık platformları, günlük mantık bulmacaları |
-| 📚 Teknik sadeleştirme | Karmaşık bilgiyi rehber ve tweet formatında sunma |
-| 📈 Stratejik AI Analiz | Pazar araştırması, SWOT/PESTLE analizleri ve yol haritası oluşturma araçları |
-| 🛡️ Güvenlik ve Koruma | Sahte haber tespiti, yaşlılar için siber güvenlik çözümleri |
-| ⚡ Üretkenlik Araçları | Task yönetimi, subtask oluşturma, AI destekli planlama |
+| Proje | Açıklama |
+|-------|----------|
+| [`Rekabet AI`](https://github.com/cenktekin/rekabet-ai) | Yapay zeka destekli pazar araştırması, SWOT, PESTLE ve stratejik yol haritası üreten analiz platformu. ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) |
+| [`Todoist Subtask`](https://github.com/cenktekin/todoist-subtask) | Task'ları AI ile alt görevlere bölen ve kapasiteye göre tarihlendiren üretkenlik canavarı. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [`QuantumLeap`](https://github.com/cenktekin/quantumleap) | Kuantum mekaniği problemlerini çözen AI destekli bilimsel asistan. ![AI](https://img.shields.io/badge/AI-Quantum-purple) |
+| [`Joplin Auto-Tagger`](https://github.com/cenktekin/joplin-auto-tagger) | Joplin notları için Gemini/OpenRouter destekli akıllı etiket öneri sistemi. ![Tool](https://img.shields.io/badge/Tool-AI-blue) |
 
 ---
 
-## 👨‍💻 Kodlama Maceram
+## 🌍 Toplumsal Etki & Yaşam (Impact)
+Teknolojiyi insan hayatına dokunmak ve dünyayı anlamak için kullanıyorum.
 
-Linux ve açık kaynak dünyasında üretkenlik odaklı araçlar geliştiriyorum — sistem güncellemeleri, repo yönetimi, tarayıcı özelleştirmeleri, AI entegrasyonları, veri görselleştirme ve eğitim uygulamaları gibi alanlarda. Python, JavaScript ve TypeScript ile hem komut satırı araçları hem de web tabanlı uygulamalar geliştiriyorum. Kod benim için sadece üretim değil; aynı zamanda bilgiyi sadeleştirmenin, paylaşmanın ve topluluğa katkı sağlamanın bir yolu.
+| Proje | Açıklama |
+|-------|----------|
+| [**`Aura (Oldies AI)`**](https://github.com/cenktekin/oldies-ai) | Yaşlılar için empati odaklı, sakin ve güven verici yapay zeka yoldaşı. |
+| [`AirWatch`](https://github.com/cenktekin/AirWatch) | Türkiye geneli hava kalitesi ve polen takibi. Gerçek zamanlı ısı haritası (Heat Map) entegrasyonu. ![Live](https://img.shields.io/badge/Status-Live-green) |
+| [`World History`](https://github.com/cenktekin/world-history) | Dünyanın 4.6 milyar yıllık tarihini sinematik ve autopilot moduyla sunan interaktif timeline. ![Premium](https://img.shields.io/badge/UI-Premium-gold) |
+| [`Sismolog`](https://github.com/cenktekin/sismolog) | Türkiye deprem verilerini gerçek zamanlı takip ve görselleştirme platformu. |
+| [`Sahte Haber`](https://github.com/cenktekin/sahte-haber) | Özellikle yaşlı kullanıcıları dolandırıcılık ve dezenformasyondan koruyan tarayıcı eklentisi. |
 
+---
+
+## 🛠️ Sistem & Geliştirici Deneyimi (DevEx)
+Linux (CachyOS) dünyasında hayatı kolaylaştıran, "Safkan" performans odaklı araçlar.
+
+| Proje | Açıklama |
+|-------|----------|
+| [**`Pratik Usta`**](https://github.com/cenktekin/pratik-usta) | AI destekli, rapid project assessment yetenekli modern kod öğrenme platformu. |
+| [`Apdatifier`](https://github.com/cenktekin/apdatifier) | CachyOS ve Flatpak sistemleri için tanı ve test rehberi/aracı. |
+| [`Thermal Guard`](https://github.com/cenktekin/thermal_guard) | Yüksek performanslı sistemler için sıcaklık izleme ve koruma scriptleri. |
+| [`KDE Profile Backup`](https://github.com/cenktekin/kde-profile-backup) | KDE Plasma ayarlarını ve paket listelerini yedekleyen güçlü Python aracı. |
+| [`Smart Search`](https://github.com/cenktekin/smart-search-operator-page) | Doğal dilden Google operatörlü akıllı sorgular üreten query builder. |
+
+---
+
+## 🧩 Deneysel & Diğer
+*   [`AutoScroll Reader`](https://github.com/cenktekin/auto-scroll-extension): Web ve PDF okumaları için akıllı kaydırma eklentisi.
+*   [`ASCII Generator`](https://github.com/cenktekin/ascii-generator): Terminal meraklıları için sanatsal çıktı aracı.
+*   [`Bir-Islem`](https://github.com/cenktekin/Bir-Islem): Klasik "Bir Kelime Bir İşlem" oyunu.
+
+---
+
+## 👨‍💻 Kodlama Felsefesi: Safkan v3.0
 Her yeni çözümde şu soruyu soruyorum:  
 > “Bunu daha modüler, daha sade ve başkalarının da kolayca uygulayabileceği hale nasıl getiririm?”
 
-Bu yüzden projelerimi Gist, blog ve tweet-ready formatlarda sunuyor; teknik derinliği anlaşılır hale getiriyorum. Kod yazarken sadece işlev değil, etki üretmeye çalışıyorum.
+**Temel İlkelerim:**
+- **Radikal Dürüstlük:** Kodda ve dökümantasyonda neyse o.
+- **Minimum Bağımlılık:** Gereksiz paketlerden arındırılmış, "Safkan" yapılar.
+- **Otonomluk:** Kendi kendini denetleyen (Auditing) ve iyileştiren sistemler.
 
 ---
 
-## 📬 Benimle İletişime Geçin
-
-- E-posta: **cenktekin@duck.com**  
-- Blog: [doctrinesofworklife.wordpress.com](https://doctrinesofworklife.wordpress.com)  
-- LinkedIn: [linkedin.com/in/cenktekin](https://linkedin.com/in/cenktekin) 
-- Github Gist: [gist.github.com/cenktekin](https://gist.github.com/cenktekin)  
-- Buy Me a Coffee: [buymeacoffee.com/cenktekin](https://buymeacoffee.com/cenktekin)
-
----
-
-## 🌱 İlginç Bilgiler
-
-- 📍 30 yıl proje yöneticiliği → HAVELSAN, Bilkent Holding, Meteksan  
-- 🎨 Hobiler: Kitap, yazı, felsefe, teknik keşif  
-- 💡 Felsefe: “En iyi çözüm, başkalarının da kolayca uygulayabileceği çözümdür.”
+## 📬 İletişim & Sosyal Medya
+- 📧 E-posta: **cenktekin@duck.com**  
+- ✍️ Blog: [doctrinesofworklife.wordpress.com](https://doctrinesofworklife.wordpress.com)  
+- 💼 LinkedIn: [linkedin.com/in/cenktekin](https://linkedin.com/in/cenktekin) 
+- 📜 Gist: [gist.github.com/cenktekin](https://gist.github.com/cenktekin)  
+- ☕ Destek: [buymeacoffee.com/cenktekin](https://buymeacoffee.com/cenktekin)
 
 ---
 
-## 🎉 Eğlenceli Not
-
-> Evet, gerçekten 30 yıl proje yöneticiliği yaptım.  
-> Şimdi ise `.sh`, `.ts`, `.py` dosyalarıyla dünyayı güzelleştirmeye çalışıyorum. 😄
+## 🌱 Hakkımda
+- 📍 30 yıllık HAVELSAN, Bilkent Holding, Meteksan tecrübesiyle emekli değil, **üretken** proje yöneticisi.
+- 🎨 Felsefe, teknik keşif ve sadeleştirme tutkunu.
+- 💡 **Motto:** “Bilgi paylaştıkça çoğalır, sadeleştikçe etkili olur.”
 
 ---
-
 **Kod yazmaya devam edin, paylaşmayı unutmayın!**  
-> “Bilgi paylaştıkça çoğalır, sadeleştikçe etkili olur.”
-
-## 🤝 Katkı & İşbirliği
-
-Açık kaynak projelere katkı sunmak, eğitim platformları geliştirmek veya AI destekli üretkenlik araçları üzerine birlikte çalışmak istersen — mesaj kutum her zaman açık!
-
-📦 Güncel repolarım: [github.com/cenktekin?tab=repositories](https://github.com/cenktekin?tab=repositories)
+> "30 yıl proje yönettim, şimdi ise dünyayı kodlarla güzelleştiriyorum." 😄
