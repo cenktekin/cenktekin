@@ -1,101 +1,160 @@
-# 🌟 Merhaba, Ben Cenk Tekin! 🌟  
-**Proje yöneticiliğinden otonom sistem mimarlığına uzanan 30 yıllık bir serüven.**  
-Açık kaynak dünyasında, "Safkan v3.0" standartlarıyla AI destekli otomasyonlar, stratejik analiz araçları ve toplumsal fayda odaklı platformlar geliştiriyorum.
+# 🌟 Cenk Tekin | Proje Arşivi 🌟
+
+**30 yıllık proje yöneticiliğinden otonom sistem mimarlığına uzanan bir serüven.**
+
+> **Son Güncelleme:** 12 Nisan 2026 | **Mod:** Safkan v5.0 (Occam Edition)
 
 ---
 
-> **Son Güncelleme:** 30 Mart 2026 | **Mod:** Safkan v3.0 (Hızır Edition)
-
-## 🏛️ Mimari Temeller (Foundation)
-Bu projeler, tüm ekosistemin "Anayasasını" ve "Mimarini" belirleyen ata projelerdir.
+## 🏛️ Mimari & Otonom Sistemler
 
 | Proje | Açıklama |
-|-------|----------|
-| [**`The Council OS`**](https://github.com/cenktekin/the-council-os) | **Ata Proje.** Maestro katmanı. Tüm Safkan sistemlerin mimari kökü ve karar mekanizması. |
-| [**`Safkan Audit`**](https://github.com/cenktekin/safkan-audit) | Projelerin yapısal bütünlüğünü, dökümantasyon standartlarını ve kod kalitesini otonom olarak denetleyen "Safkan" bekçisi. |
+|-------|-----------|
+| [**The Council OS**](https://github.com/cenktekin/the-council-os) | Multi-agent debate sistemi. AI agentlarını senkronize karar mekanizmasıyla çalıştıran orchestrator. |
+| [**Vibecosystem**](https://github.com/cenktekin/vibecosystem) | AI destekli kodlama asistanı ekosistemı. Agentic workflow engine. |
+| [**Safkan Audit**](https://github.com/cenktekin/safkan-audit) | Projelerin yapısal bütünlüğünü ve kod kalitesini otonom denetleyen audit engine. |
+| [**Universal Project Analyzer**](https://github.com/cenktekin/Universal-Project-Analyzer) | Herhangi bir kod tabanını analiz eden, raporlayan ve iyileştirme önerileri sunan CLI aracı. |
 
 ---
 
-## 🚀 The Bridge: Fikirden Gerçeğe (Idea to Reality)
-Fikir üretmekten, projeyi otonom olarak ayağa kaldırmaya kadar giden kesintisiz akış.
+## 🚀 Fikirden Ürüne (Idea → Production)
 
 | Proje | Açıklama |
-|-------|----------|
-| [**`Idea Forge`** (ideagenerator)](https://github.com/cenktekin/ideagenerator) | Safkan v3.0 standartlarında proje fikirleri üreten ve saniyeler içinde tam dökümantasyon (`PLAYBOOK.md`, `WBS`) hazırlayan **Proje Fabrikası**. |
-| [**`Project Starter`**](https://github.com/cenktekin/project-starter) | Yeni projeleri 'doğurtan' (Seeder) ve yaşayan projeleri otonom olarak denetleyen (Auditor) Hızır Edition CLI aracı. |
+|-------|-----------|
+| [**Project Starter**](https://github.com/cenktekin/project-starter) | Yeni projeleri "doğurtan" Seeder ve yaşayan projeleri denetleyen Auditor ile donatılmış CLI. |
+| [**Idea Generator**](https://github.com/cenktekin/ideagenerator) | Fikir üretir, saniyeler içinde PLAYBOOK.md ve WBS hazırlar. Proje Fabrikası. |
+| [**Skills Orchestrator**](https://github.com/cenktekin/skills-orchestrator) | AI agent skill yönetimi ve orchestration. |
 
 ---
 
-## 🤖 Agentic & Stratejik AI
-Zekayı eyleme dönüştüren, strateji ve üretkenlik odaklı araçlar.
+## 🤖 AI & Üretkenlik Araçları
 
 | Proje | Açıklama |
-|-------|----------|
-| [`Rekabet AI`](https://github.com/cenktekin/rekabet-ai) | Yapay zeka destekli pazar araştırması, SWOT, PESTLE ve stratejik yol haritası üreten analiz platformu. ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) |
-| [`Todoist Subtask`](https://github.com/cenktekin/todoist-subtask) | Task'ları AI ile alt görevlere bölen ve kapasiteye göre tarihlendiren üretkenlik canavarı. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [`QuantumLeap`](https://github.com/cenktekin/quantumleap) | Kuantum mekaniği problemlerini çözen AI destekli bilimsel asistan. ![AI](https://img.shields.io/badge/AI-Quantum-purple) |
-| [`Joplin Auto-Tagger`](https://github.com/cenktekin/joplin-auto-tagger) | Joplin notları için Gemini/OpenRouter destekli akıllı etiket öneri sistemi. ![Tool](https://img.shields.io/badge/Tool-AI-blue) |
+|-------|-----------|
+| [**Rekabet AI**](https://github.com/cenktekin/rekabet-ai) | AI destekli pazar araştırması. SWOT, PESTLE, Competitor Matrix analizleri. |
+| [**Todoist Subtask Generator**](https://github.com/cenktekin/todoist-subtask-generator) | Taskları AI ile alt görevlere böler, kapasiteye göre tarihlendirir. |
+| [**QuantumLeap**](https://github.com/cenktekin/quantumleap) | Kuantum mekaniği problemlerini çözen bilimsel AI asistan. |
+| [**StorySound AI**](https://github.com/cenktekin/storysound-ai) | Ses ve hikaye kombinasyonu ile yaratıcı içerik üretici. |
+| [**Smart Agent CLI**](https://github.com/cenktekin/smart-agent) | Terminal tabanlı AI task analist. OpenRouter/Groq entegrasyonu. |
+| [**Study Assistant AI**](https://github.com/cenktekin/study-assistant-ai) | Öğrenme platformu. Pomodoro, flashcards, leaderboard, MFA desteği. |
+| [**Stratejik Analiz AI**](https://github.com/cenktekin/stratejik-analiz-ai) | Stratejik karar alma için AI destekli analiz motoru. |
+| [**Akıllı Rota AI**](https://github.com/cenktekin/akilli-rota-ai) | AI destekli rota optimizasyonu. |
+| [**Empath AI**](https://github.com/cenktekin/empath-ai) | Empati odaklı AI sohbet asistanı. |
+| [**Müneccim**](https://github.com/cenktekin/muneccim) | Astroloji ve burç yorumlama AI platformu. |
+| [**Kariyer Pusulası AI**](https://github.com/cenktekin/kariyer-pusulasi-ai) | Kariyer danışmanlığı için AI destekli rehber. |
+| [**Daily Todo List Tracker**](https://github.com/cenktekin/daily-todo-list-tracker) | Günlük görev takibi ve analizi. |
 
 ---
 
-## 🌍 Toplumsal Etki & Yaşam (Impact)
-Teknolojiyi insan hayatına dokunmak ve dünyayı anlamak için kullanıyorum.
+## 🌐 Web Uygulamaları & Chrome Eklentileri
 
 | Proje | Açıklama |
-|-------|----------|
-| [**`Aura (Oldies AI)`**](https://github.com/cenktekin/oldies-ai) | Yaşlılar için empati odaklı, sakin ve güven verici yapay zeka yoldaşı. |
-| [`AirWatch`](https://github.com/cenktekin/AirWatch) | Türkiye geneli hava kalitesi ve polen takibi. Gerçek zamanlı ısı haritası (Heat Map) entegrasyonu. ![Live](https://img.shields.io/badge/Status-Live-green) |
-| [`World History`](https://github.com/cenktekin/world-history) | Dünyanın 4.6 milyar yıllık tarihini sinematik ve autopilot moduyla sunan interaktif timeline. ![Premium](https://img.shields.io/badge/UI-Premium-gold) |
-| [`Sismolog`](https://github.com/cenktekin/sismolog) | Türkiye deprem verilerini gerçek zamanlı takip ve görselleştirme platformu. |
-| [`Sahte Haber`](https://github.com/cenktekin/sahte-haber) | Özellikle yaşlı kullanıcıları dolandırıcılık ve dezenformasyondan koruyan tarayıcı eklentisi. |
+|-------|-----------|
+| [**Smart Search Operator Page**](https://github.com/cenktekin/smart-search) | Doğal dilden Google operatörlü sorgular üreten query builder. |
+| [**World History Timeline**](https://github.com/cenktekin/world-history) | 4.6 milyar yıllık dünya tarihini interaktif timeline ile sunan premium UI. |
+| [**Timeline Generator**](https://github.com/cenktekin/timeline-generator) | AI destekli timeline oluşturucu. Gemini/OpenRouter entegrasyonu. |
+| [**Rüya Tercümanı**](https://github.com/cenktekin/ruya-tercumani) | Rüya yorumlama AI platformu. Mobile-first, Tailwind CSS. |
+| [**Sahte Haber Dedektifi**](https://github.com/cenktekin/sahte-haber) | Dolandırıcılık ve dezenformasyondan koruyan Chrome eklentisi + web app. |
+| [**Cenk Tekin Web Page**](https://github.com/cenktekin/cenk-tekin-web-page) | Kişisel web sayfası. |
+| [**Digital Diary**](https://github.com/cenktekin/digital-diary) | Dijital günlük uygulaması. |
+| [**Esnaf Randevu**](https://github.com/cenktekin/esnaf-randevu) | Esnaflar için randevu yönetim sistemi. |
+| [**Maps Explorer**](https://github.com/cenktekin/maps-explorer) | Harita keşif ve planlama aracı. |
+| [**Maps Planner**](https://github.com/cenktekin/maps-planner) | Harita tabanlı seyahat planlayıcı. |
+| [**Özetle Beni**](https://github.com/cenktekin/ozetle-beni-extension) | İçerik özetleme Chrome eklentisi. |
+| [**Past Forward**](https://github.com/cenktekin/past-forward) | Nostaljik içerik paylaşım platformu. |
 
 ---
 
-## 🛠️ Sistem & Geliştirici Deneyimi (DevEx)
-Linux (CachyOS) dünyasında hayatı kolaylaştıran, "Safkan" performans odaklı araçlar.
+## 🔬 Bilim & Veri
 
 | Proje | Açıklama |
-|-------|----------|
-| [**`Pratik Usta`**](https://github.com/cenktekin/pratik-usta) | AI destekli, rapid project assessment yetenekli modern kod öğrenme platformu. |
-| [`Apdatifier`](https://github.com/cenktekin/apdatifier) | CachyOS ve Flatpak sistemleri için tanı ve test rehberi/aracı. |
-| [`Thermal Guard`](https://github.com/cenktekin/thermal_guard) | Yüksek performanslı sistemler için sıcaklık izleme ve koruma scriptleri. |
-| [`KDE Profile Backup`](https://github.com/cenktekin/kde-profile-backup) | KDE Plasma ayarlarını ve paket listelerini yedekleyen güçlü Python aracı. |
-| [`Smart Search`](https://github.com/cenktekin/smart-search-operator-page) | Doğal dilden Google operatörlü akıllı sorgular üreten query builder. |
+|-------|-----------|
+| [**Sismolog**](https://github.com/cenktekin/sismolog) | Türkiye deprem verilerini gerçek zamanlı takip ve görselleştirme. Vercel/Railway/Render deploy. |
+| [**AirWatch**](https://github.com/cenktekin/AirWatch) | Türkiye geneli hava kalitesi ve polen takibi. Gerçek zamanlı heat map. |
+| [**Finansal Veri Analizi**](https://github.com/cenktekin/FinansalVeriAnalizi) | Finansal veri analiz ve görselleştirme platformu. |
+| [**Fire Türkiye**](https://github.com/cenktekin/fire-turkiye) | Türkiye'deki FIRE (Financial Independence) hareketi analizi. |
+| [**Market Map**](https://github.com/cenktekin/market-map) | Piyasa haritalama ve analiz aracı. |
 
 ---
 
-## 🧩 Deneysel & Diğer
-*   [`AutoScroll Reader`](https://github.com/cenktekin/auto-scroll-extension): Web ve PDF okumaları için akıllı kaydırma eklentisi.
-*   [`ASCII Generator`](https://github.com/cenktekin/ascii-generator): Terminal meraklıları için sanatsal çıktı aracı.
-*   [`Bir-Islem`](https://github.com/cenktekin/Bir-Islem): Klasik "Bir Kelime Bir İşlem" oyunu.
+## 🛠️ Sistem Araçları & Linux
+
+| Proje | Açıklama |
+|-------|-----------|
+| [**Pratik Usta**](https://github.com/cenktekin/pratik-usta) | AI destekli, rapid assessment yetenekli kod öğrenme platformu. |
+| [**Thermal Guard**](https://github.com/cenktekin/thermal-guard) | Yüksek performanslı sistemler için sıcaklık izleme ve Docker koruma scripti. |
+| [**KDE Profile Backup**](https://github.com/cenktekin/kde-profile-backup) | KDE Plasma ayarlarını ve paket listelerini yedekleyen Python aracı. |
+| [**Analyzer**](https://github.com/cenktekin/Analyzer) | Genel amaçlı kod ve proje analiz aracı. |
+| [**Go Dork**](https://github.com/cenktekin/goo-dork) | Google dorking ve arama optimizasyonu aracı. |
+| [**Gradient Engineer**](https://github.com/cenktekin/gradient-engineer) | Gradient tabanlı optimizasyon araçları. |
+| [**Markdown Bookmarks Converter**](https://github.com/cenktekin/markdown-bookmarks-converter) | Bookmark dönüştürücü. |
+| [**NewsCrux**](https://github.com/cenktekin/newscrux) | Haber toplama ve analiz aracı. |
+| [**OpenRouter CLI**](https://github.com/cenktekin/openrouter-cli) | Terminal tabanlı OpenRouter istemcisi. |
 
 ---
 
-## 👨‍💻 Kodlama Felsefesi: Safkan v3.0
-Her yeni çözümde şu soruyu soruyorum:  
-> “Bunu daha modüler, daha sade ve başkalarının da kolayca uygulayabileceği hale nasıl getiririm?”
+## 🏠 Kişisel & Eğitim
+
+| Proje | Açıklama |
+|-------|-----------|
+| [**Tapu Arazi Güvenlik**](https://github.com/cenktekin/tapu-guvenlik) | Gayrimenkul dolandırıcılığına karşı koruma rehberi. İnteraktif kontrol listesi. |
+| [**Rüya Günlüğü**](https://github.com/cenktekin/ruya-gunlugu) | Rüya kaydetme ve yorumlama günlüğü. |
+| [**Joplin Auto-Tagger**](https://github.com/cenktekin/joplin-auto-tagger) | Joplin notları için Gemini/OpenRouter destekli akıllı etiket öneri sistemi. |
+| [**Aura Oldies AI**](https://github.com/cenktekin/aura-oldies) | Yaşlılar için empati odaklı AI yoldaşı. |
+| [**Bookmark Parser**](https://github.com/cenktekin/bookmark-parser) | Bookmark parsing ve organizasyon aracı. |
+| [**CheckLearn**](https://github.com/cenktekin/checklearn) | Öğrenme kontrol ve takip sistemi. |
+| [**Digital Consultancy Model**](https://github.com/cenktekin/digital-consultancy-model) | Dijital danışmanlık modeli ve şablonları. |
+| [**EasyInvest**](https://github.com/cenktekin/easyinvest) | Yatırım hesaplama ve portföy takip aracı. |
+| [**Günlük Bulmaca**](https://github.com/cenktekin/gunluk-bulmaca) | Günlük bulmaca ve zeka oyunları. |
+| [**Hayalet Tim**](https://github.com/cenktekin/hayalet-tim) | Gizli operasyon simülasyonu. |
+| [**Kume**](https://github.com/cenktekin/kume) | Ekip ve grup yönetimi araçları. |
+| [**Literary Journey Planner**](https://github.com/cenktekin/literary-journey-planner) | Edebiyat okuma planlayıcı. |
+| [**Persona Chat**](https://github.com/cenktekin/persona-chat) | Çoklu karakterli sohbet simülatörü. |
+| [**Physics Dictionary**](https://github.com/cenktekin/physics-dic) | Fizik terimleri sözlüğü ve açıklamaları. |
+
+---
+
+## 🎮 Eğlence & Diğer
+
+| Proje | Açıklama |
+|-------|-----------|
+| [**Username Password Generator**](https://github.com/cenktekin/username-password-generator) | Basit ama etkili şifre üreteci. |
+| [**ASCII Generator**](https://github.com/cenktekin/ascii-generator) | Terminal için sanatsal ASCII çıktıları. |
+| [**Bir Kelime Bir İşlem**](https://github.com/cenktekin/Bir-Islem) | Nostaljik TV oyunu. |
+| [**AutoScroll Reader**](https://github.com/cenktekin/auto-scroll-extension) | Web ve PDF için akıllı kaydırma eklentisi. |
+
+---
+
+## 📚 Açık Kaynak Katkılar
+
+| Proje | Açıklama |
+|-------|-----------|
+| [**The Art of Command Line**](https://github.com/cenktekin/the-art-of-command-line) | Fork. Komut satırı rehberi. |
+| [**The Book of Secret Knowledge**](https://github.com/cenktekin/the-book-of-secret-knowledge) | Fork. Sistem yöneticileri için bilgi hazinesi. |
+| [**Stock Monitor Widget**](https://github.com/cenktekin/stock-monitor-widget) | Fork katkı. Plasma widget. |
+
+---
+
+## 🧠 Kodlama Felsefesi
+
+Her çözümde şu soruyu soruyorum: *"Bunu daha modüler, daha sade ve başkalarının da kolayca uygulayabileceği hale nasıl getiririm?"*
 
 **Temel İlkelerim:**
 - **Radikal Dürüstlük:** Kodda ve dökümantasyonda neyse o.
-- **Minimum Bağımlılık:** Gereksiz paketlerden arındırılmış, "Safkan" yapılar.
-- **Otonomluk:** Kendi kendini denetleyen (Auditing) ve iyileştiren sistemler.
+- **Minimum Bağımlılık:** Gereksiz paketlerden arındırılmış, Safkan yapılar.
+- **Otonomluk:** Kendi kendini denetleyen ve iyileştiren sistemler.
+- **Occam Usturası:** Gereksiz karmaşıklıktan kaçınmak.
 
 ---
 
-## 📬 İletişim & Sosyal Medya
-- 📧 E-posta: **cenktekin@duck.com**  
-- ✍️ Blog: [doctrinesofworklife.wordpress.com](https://doctrinesofworklife.wordpress.com)  
-- 💼 LinkedIn: [linkedin.com/in/cenktekin](https://linkedin.com/in/cenktekin) 
-- 📜 Gist: [gist.github.com/cenktekin](https://gist.github.com/cenktekin)  
+## 📬 İletişim
+
+- 📧 E-posta: `cenktekin@duck.com`
+- ✍️ Blog: [doctrinesofworklife.wordpress.com](https://doctrinesofworklife.wordpress.com)
+- 💼 LinkedIn: [linkedin.com/in/cenktekin](https://linkedin.com/in/cenktekin)
+- 📜 GitHub: [github.com/cenktekin](https://github.com/cenktekin)
 - ☕ Destek: [buymeacoffee.com/cenktekin](https://buymeacoffee.com/cenktekin)
 
 ---
 
-## 🌱 Hakkımda
-- 📍 30 yıllık HAVELSAN, Bilkent Holding, Meteksan tecrübesiyle emekli değil, **üretken** proje yöneticisi.
-- 🎨 Felsefe, teknik keşif ve sadeleştirme tutkunu.
-- 💡 **Motto:** “Bilgi paylaştıkça çoğalır, sadeleştikçe etkili olur.”
-
----
-**Kod yazmaya devam edin, paylaşmayı unutmayın!**  
-> "30 yıl proje yönettim, şimdi ise dünyayı kodlarla güzelleştiriyorum." 😄
+> *"30 yıl proje yönettim, şimdi dünyayı kodlarla güzelleştiriyorum."* 🚀
