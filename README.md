@@ -2,7 +2,7 @@
 
 **30 yıllık proje yöneticiliğinden otonom sistem mimarlığına uzanan bir serüven.**
 
-> **Son Güncelleme:** 12 Nisan 2026 | **Mod:** Safkan v5.0 (Occam Edition)
+> **Son Güncelleme:** 28 Mayıs 2026 | **Mod:** Safkan v5.2 (Odin Legacy)
 
 ---
 
@@ -11,9 +11,9 @@
 | Proje | Açıklama |
 |-------|-----------|
 | [**The Council OS**](https://github.com/cenktekin/the-council-os) | Multi-agent debate sistemi. AI agentlarını senkronize karar mekanizmasıyla çalıştıran orchestrator. |
-| [**Vibecosystem**](https://github.com/cenktekin/vibecosystem) | AI destekli kodlama asistanı ekosistemı. Agentic workflow engine. |
 | [**Safkan Audit**](https://github.com/cenktekin/safkan-audit) | Projelerin yapısal bütünlüğünü ve kod kalitesini otonom denetleyen audit engine. |
 | [**Universal Project Analyzer**](https://github.com/cenktekin/Universal-Project-Analyzer) | Herhangi bir kod tabanını analiz eden, raporlayan ve iyileştirme önerileri sunan CLI aracı. |
+| [**Founder Playbook TR**](https://github.com/cenktekin/founder-playbook-tr) | Startup kurucuları için AI destekli strateji ve playbook rehberi. Türkçe lokalizasyon. |
 
 ---
 
@@ -70,10 +70,11 @@
 | Proje | Açıklama |
 |-------|-----------|
 | [**Sismolog**](https://github.com/cenktekin/sismolog) | Türkiye deprem verilerini gerçek zamanlı takip ve görselleştirme. Vercel/Railway/Render deploy. |
-| [**AirWatch**](https://github.com/cenktekin/AirWatch) | Türkiye geneli hava kalitesi ve polen takibi. Gerçek zamanlı heat map. |
+| [**AirWatch**](https://github.com/cenktekin/airwatch) | Türkiye geneli hava kalitesi ve polen takibi. Gerçek zamanlı heat map. |
 | [**Finansal Veri Analizi**](https://github.com/cenktekin/FinansalVeriAnalizi) | Finansal veri analiz ve görselleştirme platformu. |
 | [**Fire Türkiye**](https://github.com/cenktekin/fire-turkiye) | Türkiye'deki FIRE (Financial Independence) hareketi analizi. |
 | [**Market Map**](https://github.com/cenktekin/market-map) | Piyasa haritalama ve analiz aracı. |
+| [**Borsacı**](https://github.com/cenktekin/borsaci) | Borsa takip ve analiz platformu. Google OAuth ve Gemini entegrasyonu. |
 
 ---
 
@@ -129,6 +130,8 @@
 
 | Proje | Açıklama |
 |-------|-----------|
+| [**Vibecosystem**](https://github.com/cenktekin/vibecosystem) | Fork. AI destekli kodlama asistanı ekosistemi. Agentic workflow engine. |
+| [**Kalfa**](https://github.com/cenktekin/kalfa) | Fork. Ekip yönetim ve iş takip aracı. |
 | [**The Art of Command Line**](https://github.com/cenktekin/the-art-of-command-line) | Fork. Komut satırı rehberi. |
 | [**The Book of Secret Knowledge**](https://github.com/cenktekin/the-book-of-secret-knowledge) | Fork. Sistem yöneticileri için bilgi hazinesi. |
 | [**Stock Monitor Widget**](https://github.com/cenktekin/stock-monitor-widget) | Fork katkı. Plasma widget. |
@@ -154,6 +157,29 @@ Her çözümde şu soruyu soruyorum: *"Bunu daha modüler, daha sade ve başkala
 - 💼 LinkedIn: [linkedin.com/in/cenktekin](https://linkedin.com/in/cenktekin)
 - 📜 GitHub: [github.com/cenktekin](https://github.com/cenktekin)
 - ☕ Destek: [buymeacoffee.com/cenktekin](https://buymeacoffee.com/cenktekin)
+
+---
+
+## 🔧 Bakım & Güvenlik (28 Mayıs 2026)
+
+### Yapılan Çalışmalar
+
+| İşlem | Detay |
+|-------|-------|
+| **Güvenlik Taraması** | 68 repo tarandı. API key, secret, credential sızıntısı kontrol edildi. Gerçek secret bulunamadı ✅ |
+| **`.gitignore` Güncellemesi** | 18 reposuna `.env` kuralı eklendi. Gelecekte kazara commit önleme ✅ |
+| **Repo Senkronizasyonu** | 35 cloned repo uzak repolarıyla senkronize edildi ✅ |
+| **Local-Remote Eşitleme** | 60+ kişisel repo'da local değişiklikler remote'a push edildi ✅ |
+| **GitHub Repo Oluşturma** | `bookmark-parser`, `borsaci`, `founder-playbook-tr` → private olarak oluşturuldu ✅ |
+
+### Repo İstatistikleri
+
+| Kategori | Sayı |
+|----------|------|
+| 🔒 Private | 47 |
+| 🌍 Public | 20 |
+| 📁 Cloned (takip) | 35 |
+| 📊 **Toplam** | **102** |
 
 ---
 
