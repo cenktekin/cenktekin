@@ -2,7 +2,7 @@
 
 **30 yıllık proje yöneticiliğinden otonom sistem mimarlığına uzanan bir serüven.**
 
-> **Son Güncelleme:** 28 Mayıs 2026 | **Mod:** Safkan v5.2 (Odin Legacy)
+> **Son Güncelleme:** 26 Ağustos 2026 | **Mod:** Safkan v5.5 (Bang Search Edition)
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proje | Açıklama |
 |-------|-----------|
+| [**Development Standards**](https://github.com/cenktekin/development-standards) 🆕 | Prevention > Detection: AI destekli development standartları ve pre-submit kontrolleri. |
 | [**The Council OS**](https://github.com/cenktekin/the-council-os) | Multi-agent debate sistemi. AI agentlarını senkronize karar mekanizmasıyla çalıştıran orchestrator. |
 | [**Safkan Audit**](https://github.com/cenktekin/safkan-audit) | Projelerin yapısal bütünlüğünü ve kod kalitesini otonom denetleyen audit engine. |
 | [**Universal Project Analyzer**](https://github.com/cenktekin/Universal-Project-Analyzer) | Herhangi bir kod tabanını analiz eden, raporlayan ve iyileştirme önerileri sunan CLI aracı. |
@@ -31,6 +32,8 @@
 
 | Proje | Açıklama |
 |-------|-----------|
+| [**Blog Generator**](https://github.com/cenktekin/blog-generator) 🆕 | Doctrines of Work Life blog üretici: interaktif menü ile şablonlardan premium blog yazıları üretir. |
+| [**GitReverse**](https://github.com/cenktekin/gitreverse) 🆕 | GitHub reposunu reverse-engineer ederek orijinal prompt'u tahmin eden analiz aracı. |
 | [**Rekabet AI**](https://github.com/cenktekin/rekabet-ai) | AI destekli pazar araştırması. SWOT, PESTLE, Competitor Matrix analizleri. |
 | [**Todoist Subtask Generator**](https://github.com/cenktekin/todoist-subtask-generator) | Taskları AI ile alt görevlere böler, kapasiteye göre tarihlendirir. |
 | [**QuantumLeap**](https://github.com/cenktekin/quantumleap) | Kuantum mekaniği problemlerini çözen bilimsel AI asistan. |
@@ -46,10 +49,11 @@
 
 ---
 
-## 🌐 Web Uygulamaları & Chrome Eklentileri
+## 🌐 Web Uygulamaları & Eklentiler
 
 | Proje | Açıklama |
 |-------|-----------|
+| [**Bang Search FF**](https://github.com/cenktekin/bang-search-ff) 🆕 | Firefox Bang Search: DuckDuckGo !bangs for Firefox. Select any text, right-click ile 13k+ sitede ara (Wikipedia, YouTube, Hepsiburada, Trendyol, GitHub...). Premium dark compact palette, offline fallback, günlük senkronizasyon. |
 | [**Smart Search Operator Page**](https://github.com/cenktekin/smart-search) | Doğal dilden Google operatörlü sorgular üreten query builder. |
 | [**World History Timeline**](https://github.com/cenktekin/world-history) | 4.6 milyar yıllık dünya tarihini interaktif timeline ile sunan premium UI. |
 | [**Timeline Generator**](https://github.com/cenktekin/timeline-generator) | AI destekli timeline oluşturucu. Gemini/OpenRouter entegrasyonu. |
@@ -69,6 +73,8 @@
 
 | Proje | Açıklama |
 |-------|-----------|
+| [**ScholarMCP**](https://github.com/cenktekin/ScholarMCP) 🆕 | Academic research MCP: Scholar verilerini AI agent'lara bağlayan Model Context Protocol server. |
+| [**GenoSyn**](https://github.com/cenktekin/genosyn) 🆕 | AI destekli genomik sentez ve analiz platformu. |
 | [**Sismolog**](https://github.com/cenktekin/sismolog) | Türkiye deprem verilerini gerçek zamanlı takip ve görselleştirme. Vercel/Railway/Render deploy. |
 | [**AirWatch**](https://github.com/cenktekin/airwatch) | Türkiye geneli hava kalitesi ve polen takibi. Gerçek zamanlı heat map. |
 | [**Finansal Veri Analizi**](https://github.com/cenktekin/FinansalVeriAnalizi) | Finansal veri analiz ve görselleştirme platformu. |
@@ -82,6 +88,8 @@
 
 | Proje | Açıklama |
 |-------|-----------|
+| [**Better DNS Optimizer**](https://github.com/cenktekin/better-dns-optimizer) 🆕 | DNS optimizasyon ve benchmark aracı: en hızlı DNS'i otomatik seçer. |
+| [**Groq Code CLI**](https://github.com/cenktekin/groq-code-cli) 🆕 | Groq hızında çalışan terminal tabanlı AI coding assistant. |
 | [**Pratik Usta**](https://github.com/cenktekin/pratik-usta) | AI destekli, rapid assessment yetenekli kod öğrenme platformu. |
 | [**Thermal Guard**](https://github.com/cenktekin/thermal-guard) | Yüksek performanslı sistemler için sıcaklık izleme ve Docker koruma scripti. |
 | [**KDE Profile Backup**](https://github.com/cenktekin/kde-profile-backup) | KDE Plasma ayarlarını ve paket listelerini yedekleyen Python aracı. |
@@ -119,6 +127,7 @@
 
 | Proje | Açıklama |
 |-------|-----------|
+| [**3-4 Ball Billiard**](https://github.com/cenktekin/3-4-ball-billiard) 🆕 | Client-side carom billiards oyunu: tarayıcıda doğrudan oynanır, kurulum gerektirmez. |
 | [**Username Password Generator**](https://github.com/cenktekin/username-password-generator) | Basit ama etkili şifre üreteci. |
 | [**ASCII Generator**](https://github.com/cenktekin/ascii-generator) | Terminal için sanatsal ASCII çıktıları. |
 | [**Bir Kelime Bir İşlem**](https://github.com/cenktekin/Bir-Islem) | Nostaljik TV oyunu. |
@@ -203,26 +212,27 @@ Her çözümde şu soruyu soruyorum: *"Bunu daha modüler, daha sade ve başkala
 
 ---
 
-## 🔧 Bakım & Güvenlik (28 Mayıs 2026)
+## 🔧 Bakım & Güvenlik (26 Ağustos 2026)
 
 ### Yapılan Çalışmalar
 
 | İşlem | Detay |
 |-------|-------|
-| **Güvenlik Taraması** | 68 repo tarandı. API key, secret, credential sızıntısı kontrol edildi. Gerçek secret bulunamadı ✅ |
+| **Güvenlik Taraması** | 81 owned repo tarandı. API key, secret, credential sızıntısı kontrol edildi. Gerçek secret bulunamadı ✅ |
 | **`.gitignore` Güncellemesi** | 18 reposuna `.env` kuralı eklendi. Gelecekte kazara commit önleme ✅ |
 | **Repo Senkronizasyonu** | 35 cloned repo uzak repolarıyla senkronize edildi ✅ |
 | **Local-Remote Eşitleme** | 60+ kişisel repo'da local değişiklikler remote'a push edildi ✅ |
 | **GitHub Repo Oluşturma** | `bookmark-parser`, `borsaci`, `founder-playbook-tr` → private olarak oluşturuldu ✅ |
+| **Yeni Projeler** | 9 yeni repo eklendi: `bang-search-ff`, `blog-generator`, `development-standards`, `gitreverse`, `ScholarMCP`, `better-dns-optimizer`, `3-4-ball-billiard`, `genosyn`, `groq-code-cli` ✅ |
 
 ### Repo İstatistikleri
 
 | Kategori | Sayı |
 |----------|------|
 | 🔒 Private | 47 |
-| 🌍 Public | 20 |
+| 🌍 Public | 29 |
 | 📁 Cloned (takip) | 35 |
-| 📊 **Toplam** | **102** |
+| 📊 **Toplam** | **111** |
 
 ---
 
