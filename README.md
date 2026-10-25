@@ -2,7 +2,7 @@
 
 **30 yıllık proje yöneticiliğinden otonom sistem mimarlığına uzanan bir serüven.**
 
-> **Son Güncelleme:** 26 Ağustos 2026 | **Mod:** Safkan v5.5 (Bang Search Edition)
+> **Son Güncelleme:** 25 Ekim 2026 | **Mod:** Safkan v5.5 (Bang Search Edition)
 
 ---
 
@@ -93,7 +93,6 @@
 | [**Pratik Usta**](https://github.com/cenktekin/pratik-usta) | AI destekli, rapid assessment yetenekli kod öğrenme platformu. |
 | [**Thermal Guard**](https://github.com/cenktekin/thermal-guard) | Yüksek performanslı sistemler için sıcaklık izleme ve Docker koruma scripti. |
 | [**KDE Profile Backup**](https://github.com/cenktekin/kde-profile-backup) | KDE Plasma ayarlarını ve paket listelerini yedekleyen Python aracı. |
-| [**Analyzer**](https://github.com/cenktekin/Analyzer) | Genel amaçlı kod ve proje analiz aracı. |
 | [**Go Dork**](https://github.com/cenktekin/goo-dork) | Google dorking ve arama optimizasyonu aracı. |
 | [**Gradient Engineer**](https://github.com/cenktekin/gradient-engineer) | Gradient tabanlı optimizasyon araçları. |
 | [**Markdown Bookmarks Converter**](https://github.com/cenktekin/markdown-bookmarks-converter) | Bookmark dönüştürücü. |
@@ -117,7 +116,7 @@
 | [**Günlük Bulmaca**](https://github.com/cenktekin/gunluk-bulmaca) | Günlük bulmaca ve zeka oyunları. |
 | [**Hayalet Tim**](https://github.com/cenktekin/hayalet-tim) | Gizli operasyon simülasyonu. |
 | [**Kume**](https://github.com/cenktekin/kume) | Ekip ve grup yönetimi araçları. |
-| [**Literary Journey Planner**](https://github.com/cenktekin/literary-journey-planner) | Edebiyat okuma planlayıcı. |
+| [**Literary Journey Planner**](https://github.com/cenktekin/literatery-journey-planner) | Edebiyat okuma planlayıcı. |
 | [**Persona Chat**](https://github.com/cenktekin/persona-chat) | Çoklu karakterli sohbet simülatörü. |
 | [**Physics Dictionary**](https://github.com/cenktekin/physics-dic) | Fizik terimleri sözlüğü ve açıklamaları. |
 
@@ -131,7 +130,7 @@
 | [**Username Password Generator**](https://github.com/cenktekin/username-password-generator) | Basit ama etkili şifre üreteci. |
 | [**ASCII Generator**](https://github.com/cenktekin/ascii-generator) | Terminal için sanatsal ASCII çıktıları. |
 | [**Bir Kelime Bir İşlem**](https://github.com/cenktekin/Bir-Islem) | Nostaljik TV oyunu. |
-| [**AutoScroll Reader**](https://github.com/cenktekin/auto-scroll-extension) | Web ve PDF için akıllı kaydırma eklentisi. |
+| [**AutoScroll Reader**](https://github.com/cenktekin/auto-scroller-extension) | Web ve PDF için akıllı kaydırma eklentisi. |
 
 ---
 
@@ -225,14 +224,17 @@ Her çözümde şu soruyu soruyorum: *"Bunu daha modüler, daha sade ve başkala
 | **GitHub Repo Oluşturma** | `bookmark-parser`, `borsaci`, `founder-playbook-tr` → private olarak oluşturuldu ✅ |
 | **Yeni Projeler** | 9 yeni repo eklendi: `bang-search-ff`, `blog-generator`, `development-standards`, `gitreverse`, `ScholarMCP`, `better-dns-optimizer`, `3-4-ball-billiard`, `genosyn`, `groq-code-cli` ✅ |
 
-### Repo İstatistikleri
+### Repo İstatistikleri (ölçüm: 25 Ekim 2026)
 
 | Kategori | Sayı |
 |----------|------|
-| 🔒 Private | 47 |
-| 🌍 Public | 29 |
-| 📁 Cloned (takip) | 35 |
-| 📊 **Toplam** | **111** |
+| 🔒 Private | 63 |
+| 🌍 Public | 33 |
+| 📊 **Toplam** | **96** |
+| — kendi projeler | 83 |
+| — fork | 13 |
+
+> Sayaçlar `gh repo list cenktekin --limit 400 --json visibility,isFork` ile ölçülür. Elle tahmin etme.
 
 ---
 

@@ -10,3 +10,10 @@ build/
 Thumbs.db
 *.swp
 *.swo
+
+# Yerel iç dokümanlar — bu repo PUBLIC, commit EDİLMEZ
+archive/
+NEXT_ACTIONS.md
+📄 *.md
+📝 *.md
+🧠 *.md
