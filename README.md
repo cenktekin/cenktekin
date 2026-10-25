@@ -140,40 +140,30 @@
 
 AI-native Chromium tabanlı tarayıcı projesine güvenlik, gizlilik ve özellik mühendisliği katkıları.
 
-#### 🛡️ Güvenlik & Gizlilik (Issues → PR)
+> Durumlar **25 Ekim 2026**'da GitHub API ile doğrulandı: 20 kayıt açıldı — 6 çözüldü, 9 kapsam dışı, 5 PR merge edilmeden kapatıldı.
+
+#### 🛡️ Güvenlik & Gizlilik
 
 | # | Konu | Durum |
 |---|------|-------|
-| [#1035](https://github.com/browseros-ai/BrowserOS/issues/1035) | Conversation ve Voice verilerinin açık rıza olmadan buluta yüklenmesi | ✅ Closed |
-| [#1034](https://github.com/browseros-ai/BrowserOS/issues/1034) | **[CRITICAL]** Shell Access ve Path Traversal güvenlik açığı | 🔴 Open |
-| [#1033](https://github.com/browseros-ai/BrowserOS/issues/1033) | **[CRITICAL]** API Key ve OAuth Token'ların düz metin olarak saklanması | ✅ Closed |
-| [#1024](https://github.com/browseros-ai/BrowserOS/issues/1024) | "Sync to Cloud" özelliği dokümante edilmiş ama implemente edilmemiş | ✅ Closed |
-| [#1038](https://github.com/browseros-ai/BrowserOS/pull/1038) | 🛡️ **Konsolide Güvenlik & Gizlilik PR'ı** (AES-256-GCM encryption, telemetry disable) | 🟡 Open |
-| [#1037](https://github.com/browseros-ai/BrowserOS/pull/1037) | İzinsiz telemetry ve cloud sync devre dışı bırakma | ✅ Closed |
-| [#1036](https://github.com/browseros-ai/BrowserOS/pull/1036) | Hassas veriler için AES-256-GCM şifreleme | ✅ Closed |
+| [#1034](https://github.com/browseros-ai/BrowserOS/issues/1034) | **[CRITICAL]** Shell Access ve Path Traversal güvenlik açığı | ✅ Çözüldü |
+| [#1033](https://github.com/browseros-ai/BrowserOS/issues/1033) | **[CRITICAL]** API Key ve OAuth Token'ların düz metin olarak saklanması | ⚪ Kapsam dışı |
+| [#1035](https://github.com/browseros-ai/BrowserOS/issues/1035) | Conversation ve Voice verilerinin açık rıza olmadan buluta yüklenmesi | ⚪ Kapsam dışı |
+| [#1024](https://github.com/browseros-ai/BrowserOS/issues/1024) | "Sync to Cloud" özelliği dokümante edilmiş ama implemente edilmemiş | ⚪ Kapsam dışı |
+| [#1036](https://github.com/browseros-ai/BrowserOS/pull/1036) · [#1037](https://github.com/browseros-ai/BrowserOS/pull/1037) · [#1038](https://github.com/browseros-ai/BrowserOS/pull/1038) | AES-256-GCM şifreleme + telemetry/cloud-sync kapatma PR'ları | 🚫 Merge edilmedi |
 
 #### 🚀 Özellik Önerileri & Bug Raporları
 
 | # | Konu | Durum |
 |---|------|-------|
-| [#955](https://github.com/browseros-ai/BrowserOS/issues/955) | Smart Skill Discovery — Kullanım paternlerine göre skill önerisi | 🔴 Open |
-| [#951](https://github.com/browseros-ai/BrowserOS/issues/951) | `@` context picker'a dosya, hafıza, bookmark ekleme desteği | 🔴 Open |
-| [#950](https://github.com/browseros-ai/BrowserOS/issues/950) | Scheduled task sonuçlarını task adına göre grupla (collapse/expand) | 🔴 Open |
-| [#949](https://github.com/browseros-ai/BrowserOS/issues/949) | Scheduled task sonuçları için "Continue in Chat" butonu | 🔴 Open |
-| [#945](https://github.com/browseros-ai/BrowserOS/issues/945) | **[Bug]** Tab grouping işleminde Chromium SIGSEGV/SIGTRAP crash (Linux) | 🔴 Open |
-| [#927](https://github.com/browseros-ai/BrowserOS/issues/927) | **[Bug]** Agent sayfa navigasyonu sonrası chat mesajları kayboluyor | 🔴 Open |
-| [#926](https://github.com/browseros-ai/BrowserOS/issues/926) | Scheduled task run geçmişinden sonuç silme özelliği | 🔴 Open |
-| [#925](https://github.com/browseros-ai/BrowserOS/issues/925) | Flexible schedule seçenekleri (haftalık, aylık, custom cron) | 🔴 Open |
-| [#882](https://github.com/browseros-ai/BrowserOS/issues/882) | Düzenli Chromium güvenlik güncellemeleri | 🔴 Open |
-| [#973](https://github.com/browseros-ai/BrowserOS/issues/973) | New Tab page'de legacy workspace NTP seçeneği | ✅ Closed |
-| [#612](https://github.com/browseros-ai/BrowserOS/issues/612) | Custom LLM provider ve default browser ayarları restart sonrası sıfırlanıyor | ✅ Closed |
-
-#### 🎯 Implement Edilen PR'lar
-
-| # | Özellik | Durum |
-|---|---------|-------|
-| [#969](https://github.com/browseros-ai/BrowserOS/pull/969) | Scheduled task sonuçları için "Continue in Chat" dropdown | ✅ Merged |
-| [#961](https://github.com/browseros-ai/BrowserOS/pull/961) | Scheduled task sonuçlarını task adına göre grupla | ✅ Merged |
+| [#945](https://github.com/browseros-ai/BrowserOS/issues/945) | **[Bug]** Tab grouping işleminde Chromium SIGSEGV/SIGTRAP crash (Linux) | ✅ Çözüldü |
+| [#927](https://github.com/browseros-ai/BrowserOS/issues/927) | **[Bug]** Agent sayfa navigasyonu sonrası chat mesajları kayboluyor | ✅ Çözüldü |
+| [#882](https://github.com/browseros-ai/BrowserOS/issues/882) | Düzenli Chromium güvenlik güncellemeleri | ✅ Çözüldü |
+| [#973](https://github.com/browseros-ai/BrowserOS/issues/973) | New Tab page'de legacy workspace NTP seçeneği | ✅ Çözüldü |
+| [#612](https://github.com/browseros-ai/BrowserOS/issues/612) | Custom LLM provider ve default browser ayarları restart sonrası sıfırlanıyor | ✅ Çözüldü |
+| [#969](https://github.com/browseros-ai/BrowserOS/pull/969) · [#961](https://github.com/browseros-ai/BrowserOS/pull/961) | "Continue in Chat" dropdown + sonuçları task adına göre gruplama PR'ları | 🚫 Merge edilmedi |
+| [#955](https://github.com/browseros-ai/BrowserOS/issues/955) · [#951](https://github.com/browseros-ai/BrowserOS/issues/951) · [#950](https://github.com/browseros-ai/BrowserOS/issues/950) · [#949](https://github.com/browseros-ai/BrowserOS/issues/949) | Skill discovery, `@` context picker, scheduled task UX önerileri | ⚪ Kapsam dışı |
+| [#926](https://github.com/browseros-ai/BrowserOS/issues/926) · [#925](https://github.com/browseros-ai/BrowserOS/issues/925) | Scheduled task geçmişi ve esnek zamanlama önerileri | ⚪ Kapsam dışı |
 
 ---
 
