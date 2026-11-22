@@ -2,7 +2,7 @@
 
 **30 yıllık proje yöneticiliğinden otonom sistem mimarlığına uzanan bir serüven.**
 
-> **Son Güncelleme:** 9 Kasım 2026
+> **Son Güncelleme:** 22 Kasım 2026
 >
 > 🔒 **İşaret:** Bağlantısız (kalın) proje adları özel repolarda; talep üzerine inceleme paylaşılır.
 
@@ -48,6 +48,7 @@
 | **Müneccim** | Astroloji ve burç yorumlama AI platformu. |
 | **Kariyer Pusulası AI** | Kariyer danışmanlığı için AI destekli rehber. |
 | **Daily Todo List Tracker** | Günlük görev takibi ve analizi. |
+| **TickTick MCP** 🆕 | TickTick Open API'sini MCP sunucusu olarak açar: 10 tool, stdio modu, sır repoda tutulmaz. |
 
 ---
 
@@ -104,6 +105,7 @@
 | [**OpenRouter CLI**](https://github.com/cenktekin/openrouter-cli) | Terminal tabanlı OpenRouter istemcisi. |
 | [**Stock Monitor FF**](https://github.com/cenktekin/stock-monitor-ff) | KDE stock-monitor-widget'ın Firefox portu — Yahoo Finance, grafikler, portföy ve rozet. |
 | **Joplin Sidebar** | Yerel Joplin notlarını tarayıcı kenar çubuğunda arayan, okuyan ve aktif sayfayı nota çeviren uzantı (Chrome side panel + Firefox sidebar). |
+| **Edge Themes** 🆕 | Persona-Chat'in 12 renk paletinden üretilen Edge/Chrome tarayıcı temaları (MV3 + MV2 manifest). |
 
 ---
 
@@ -240,14 +242,14 @@ Her çözümde şu soruyu soruyorum: *"Bunu daha modüler, daha sade ve başkala
 | **GitHub Repo Oluşturma** | `bookmark-parser`, `borsaci`, `founder-playbook-tr` → private olarak oluşturuldu ✅ |
 | **Yeni Projeler** | 9 yeni repo eklendi: `bang-search-ff`, `blog-generator`, `development-standards`, `gitreverse`, `ScholarMCP`, `better-dns-optimizer`, `3-4-ball-billiard`, `genosyn`, `groq-code-cli` ✅ |
 
-### Repo İstatistikleri (ölçüm: 9 Kasım 2026)
+### Repo İstatistikleri (ölçüm: 22 Kasım 2026)
 
 | Kategori | Sayı |
 |----------|------|
-| 🔒 Private | 65 |
+| 🔒 Private | 67 |
 | 🌍 Public | 32 |
-| 📊 **Toplam** | **97** |
-| — kendi projeler | 84 |
+| 📊 **Toplam** | **99** |
+| — kendi projeler | 86 |
 | — fork | 13 |
 
 > Sayaçlar `gh repo list cenktekin --limit 400 --json visibility,isFork` ile ölçülür. Elle tahmin etme.
