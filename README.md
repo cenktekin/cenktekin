@@ -12,7 +12,7 @@
 
 | Proje | Açıklama |
 |-------|-----------|
-| **Development Standards** 🆕 | Prevention > Detection: AI destekli development standartları ve pre-submit kontrolleri. TDD disiplini: her bug fix'e test zorunlu, 43 unittest ile CI'da test + shell syntax + shellcheck kapıları. |
+| **Development Standards** 🆕 | Prevention > Detection: AI destekli development standartları ve pre-submit kontrolleri. |
 | **The Council OS** | Multi-agent debate sistemi. AI agentlarını senkronize karar mekanizmasıyla çalıştıran orchestrator. |
 | **Safkan Audit** | Projelerin yapısal bütünlüğünü ve kod kalitesini otonom denetleyen audit engine. |
 | **Universal Project Analyzer** | Herhangi bir kod tabanını analiz eden, raporlayan ve iyileştirme önerileri sunan CLI aracı. |
@@ -26,7 +26,9 @@
 |-------|-----------|
 | **Project Starter** | Yeni projeleri "doğurtan" Seeder ve yaşayan projeleri denetleyen Auditor ile donatılmış CLI. |
 | **Idea Generator** | Fikir üretir, saniyeler içinde PLAYBOOK.md ve WBS hazırlar. Proje Fabrikası. |
+| **Idea Forge** (`ideagenerator`) | OPC mimarisiyle fikri tam projeye çeviren AI Proje Fabrikası: PLAYBOOK, WBS ve agent talimatları üretir. |
 | **Skills Orchestrator** | AI agent skill yönetimi ve orchestration. |
+| **Master Dashboard** | Yerel projeleri tek ekranda izler: durum, port, başlat/durdur, iframe arayüz, canlı log. |
 
 ---
 
@@ -49,6 +51,10 @@
 | **Kariyer Pusulası AI** | Kariyer danışmanlığı için AI destekli rehber. |
 | **Daily Todo List Tracker** | Günlük görev takibi ve analizi. |
 | **TickTick MCP** 🆕 | TickTick Open API'sini MCP sunucusu olarak açar: 10 tool, stdio modu, sır repoda tutulmaz. |
+| **Tududi MCP** 🆕 | Tududi REST API'sini MCP sunucusu olarak açar: 10 `tt_` tool, `TM_BACKEND=tududi`, stdio modu. |
+| **Tududi Sidepanel** 🆕 | Tududi için tarayıcı yan paneli (Chromium + Firefox varyantları). |
+| **Gün Planı** | Günlük planlama skill'inin bağlam ve devir kaydı; kararlar, mimari ve tuzaklar. |
+| **Paperclip** | AI agent'ları iş için yöneten uygulama (fork, upstream katkı takibi). |
 
 ---
 
@@ -69,6 +75,7 @@
 | **Maps Planner** | Harita tabanlı seyahat planlayıcı. |
 | **Özetle Beni** | İçerik özetleme Chrome eklentisi. |
 | **Past Forward** | Nostaljik içerik paylaşım platformu. |
+| **FF Bangs Extension** | Firefox için DuckDuckGo `!bang` arama eklentisi. |
 
 ---
 
@@ -86,6 +93,8 @@
 | **Borsacı** | Borsa takip ve analiz platformu. Google OAuth ve Gemini entegrasyonu. |
 | [**Kariyer Pusulası Data**](https://github.com/cenktekin/kariyer-pusulasi-data) | YÖK Atlas tercih kılavuzu verilerinin yerel kopyası ve karşılaştırma için çalışan analiz arayüzü. |
 | **Fon Analiz** | TEFAS fon verilerini çeken, risk sınıflandıran ve HTML rapor üreten Python analiz platformu. |
+| **Wealth Contract** | `fon-analiz` / `easyinvest` → `borsaci` → panel arasındaki tek veri kontratı. |
+| **Public APIs Live** | Canlı public API kataloğu, kategori/endpoint keşfi ve erişilebilirlik takibi. |
 
 ---
 
@@ -100,6 +109,7 @@
 | **KDE Profile Backup** | KDE Plasma ayarlarını ve paket listelerini yedekleyen Python aracı. |
 | **Go Dork** | Google dorking ve arama optimizasyonu aracı. |
 | **Gradient Engineer** | Gradient tabanlı optimizasyon araçları. |
+| **Memory DB** | Yerel hafıza veritabanı ve arama katmanı. |
 | [**Markdown Bookmarks Converter**](https://github.com/cenktekin/markdown-bookmarks-converter) | Bookmark dönüştürücü. |
 | [**NewsCrux**](https://github.com/cenktekin/newscrux) | Haber toplama ve analiz aracı. |
 | [**OpenRouter CLI**](https://github.com/cenktekin/openrouter-cli) | Terminal tabanlı OpenRouter istemcisi. |
@@ -128,6 +138,9 @@
 | **Persona Chat** | Çoklu karakterli sohbet simülatörü. |
 | **Physics Dictionary** | Fizik terimleri sözlüğü ve açıklamaları. |
 | **Darla** | Günlük hedeflerini işaretle, streak'ini koru, aylık analizini gör (Flask + SQLite). |
+| **Kütüphane** | Yerel kitap kataloğu: tara → katalogla → zenginleştir → ara → oku/takip et. Node SQLite, native bağımlılık yok. |
+| **Özemre Arşivi** | Ahmed Yüksel Özemre sitesinin yerel arşiv kopyası. |
+| **E-Öğrenme Karşılaştırma** | Eğitim platformlarını karşılaştıran analiz çalışması. |
 | [**Workout Guide**](https://github.com/cenktekin/workout-guide) | Kişiselleştirilmiş antrenman planlayıcı: 7-8 soruluk sihirbaz, Türkçe arayüz, haftalık/aylık planlar. |
 
 ---
@@ -141,6 +154,8 @@
 | [**ASCII Generator**](https://github.com/cenktekin/ascii-generator) | Terminal için sanatsal ASCII çıktıları. |
 | [**Bir Kelime Bir İşlem**](https://github.com/cenktekin/Bir-Islem) | Nostaljik TV oyunu. |
 | [**AutoScroll Reader**](https://github.com/cenktekin/auto-scroller-extension) | Web ve PDF için akıllı kaydırma eklentisi. |
+| **Murder Mystery Game** | Gerçek zamanlı çok oyunculu dedektif parti oyunu: altı şüpheli, bir katil. |
+| **Math & Music Infographic** | Müzik-matematik ilişkisini sesli ve görsel simülasyonlarla anlatan eğitim aracı. |
 
 ---
 
@@ -160,6 +175,52 @@ Kişisel portföy tablolarına dahil edilmeyen deneysel, arşivlenmiş ve salt-o
 
 ---
 ## 📚 Açık Kaynak Katkılar
+
+### 🗂️ [Tududi](https://github.com/chrisvel/tududi) Fork'u — Yerel İyileştirmeler
+
+`chrisvel/tududi` upstream'ini forkleyip `windows-sqlite` branch'inde Windows + SQLite ortamına uyarladım; upstream `main`'e göre **55 commit**, 730 dosya değişikliği. Değişiklikler henüz upstream'e gönderilmedi, kendi repomda duruyor.
+
+> Doğrulama: `git log --oneline origin/main..windows-sqlite` → 55 commit (24–25 Kasım 2026). Kaynak: yerel fork, branch `windows-sqlite`.
+
+#### 🪟 Windows & Yerel Kurulum
+
+| Konu | Kanıt |
+|------|-------|
+| Windows native kurulum notları, SQLite veri katmanı ve yedekleme taşıma (1.x → 2.0) | `c3399959`, `e1280ee8` |
+
+#### ✍️ Capture & Görev Akışı
+
+| Konu | Kanıt |
+|------|-------|
+| TickTick tarzı `*date`, `!priority`, `^project` işaretleri başlıkta ve gövdede; Türkçe ay ifadeleri | `25d6d875`, `746eac30`, `65a1ead7`, `fecaffff`, `c8d75d53` |
+| Takvimde "Apply" gerçekten kaydediyor; tarih alanı taşınırken başlangıç/bitiş birlikte hareket ediyor | `ae30a68f`, `d2f4ecea`, `1e1d69eb` |
+| Tekrarlanan görevde "skip this once", atlanan tekrar bugünün listesinden çıkıyor, biten tekrarın nereye gittiği yazılıyor | `6b1156d4`, `9969abb2`, `bc951b80`, `66fdb775` |
+| Alt görevler parent bilgisini koruyor; tarihe göre sıralamada tarihsizler en sona | `85f67962`, `5daf08f3` |
+| Görev başlığındaki link tıklanabilir, gruplama, toplu düzenleme ve satır içi düzenleme | `129e76bb`, `53dcd22f` |
+
+#### 📅 Günlük Plan & Görünümler
+
+| Konu | Kanıt |
+|------|-------|
+| Plan my day gerçekten planlıyor; aday listesi tek tıkla açılıyor; bugün vadesi olan plan dışı görevler görünüyor | `14c52a5c`, `310f58b6`, `d2bdea1b` |
+| Kayıtlı görünüm tümüyle yükleniyor, sıralama ve gruplama geri gelince korunuyor; görünüm projeye bağlanabiliyor | `92e794e3`, `e647e6df`, `5ed02a6d` |
+| Takvimde saatli görevler doğru saatte, tüm-gün şeridi düzeltildi | `bbc058a9`, `60438182` |
+| Sekme geri gelince listeler yeniden okunuyor, sayfa dışı değişiklikler fark ediliyor | `54d79121`, `c55318d6` |
+
+#### 📊 Sidebar & Proje Sırası
+
+| Konu | Kanıt |
+|------|-------|
+| Proje/area/pinned görünümlerde açık görev sayaçları; rozet 99+ ile kırpılmıyor | `d4454483`, `52ed77b1` |
+| Sidebar ve tüm picker'lar kullanıcının sıraladığı proje sırasını izliyor | `f883137a`, `eec245e4`, `365bed98`, `ce35c580` |
+
+#### 🔧 Diğer
+
+| Konu | Kanıt |
+|------|-------|
+| Pomodoro sayfalar arası devam ediyor, profil self-saving sekmeleri, AI asistanı yerel gateway üzerinden, tema native seçenek listeleri, jest baseline sıfır | `7105f1a6`, `059dc50b`, `c292c12f`, `3b7474a8`, `60438182` |
+
+---
 
 ### 🌐 [BrowserOS](https://github.com/browseros-ai/BrowserOS) Katkıları
 
