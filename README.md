@@ -2,7 +2,7 @@
 
 **30 yıllık proje yöneticiliğinden otonom sistem mimarlığına uzanan bir serüven.**
 
-> **Son Güncelleme:** 22 Kasım 2026
+> **Son Güncelleme:** 26 Kasım 2026
 >
 > 🔒 **İşaret:** Bağlantısız (kalın) proje adları özel repolarda; talep üzerine inceleme paylaşılır.
 
@@ -12,7 +12,7 @@
 
 | Proje | Açıklama |
 |-------|-----------|
-| **Development Standards** 🆕 | Prevention > Detection: AI destekli development standartları ve pre-submit kontrolleri. |
+| **Development Standards** 🆕 | Prevention > Detection: AI destekli development standartları ve pre-submit kontrolleri. TDD disiplini: her bug fix'e test zorunlu, 43 unittest ile CI'da test + shell syntax + shellcheck kapıları. |
 | **The Council OS** | Multi-agent debate sistemi. AI agentlarını senkronize karar mekanizmasıyla çalıştıran orchestrator. |
 | **Safkan Audit** | Projelerin yapısal bütünlüğünü ve kod kalitesini otonom denetleyen audit engine. |
 | **Universal Project Analyzer** | Herhangi bir kod tabanını analiz eden, raporlayan ve iyileştirme önerileri sunan CLI aracı. |
@@ -201,7 +201,7 @@ AI-native Chromium tabanlı tarayıcı projesine güvenlik, gizlilik ve özellik
 | [**The Art of Command Line**](https://github.com/cenktekin/the-art-of-command-line) | Fork. Komut satırı rehberi. |
 | [**The Book of Secret Knowledge**](https://github.com/cenktekin/the-book-of-secret-knowledge) | Fork. Sistem yöneticileri için bilgi hazinesi. |
 | [**Stock Monitor Widget**](https://github.com/cenktekin/stock-monitor-widget) | Fork katkı. Plasma widget. |
-| [**One-Click TickTick**](https://github.com/cenktekin/one-click-ticktick) | Fork. Web'de tek tıkla TickTick görevi oluşturan Chrome eklentisi. |
+| **One-Click TickTick** | Fork. Web'de tek tıkla TickTick görevi oluşturan Chrome eklentisi. |
 | [**Context+**](https://github.com/cenktekin/contextplus) | Fork. RAG + AST + spektral kümeleme ile kod tabanını aranabilir özellik grafiğine çeviren MCP sunucusu. |
 | [**Apdatifier**](https://github.com/cenktekin/apdatifier) | Fork. ArchLinux, Plasma widget ve Flatpak güncellemelerini izleyen KDE Plasma widget'ı. |
 
@@ -242,15 +242,15 @@ Her çözümde şu soruyu soruyorum: *"Bunu daha modüler, daha sade ve başkala
 | **GitHub Repo Oluşturma** | `bookmark-parser`, `borsaci`, `founder-playbook-tr` → private olarak oluşturuldu ✅ |
 | **Yeni Projeler** | 9 yeni repo eklendi: `bang-search-ff`, `blog-generator`, `development-standards`, `gitreverse`, `ScholarMCP`, `better-dns-optimizer`, `3-4-ball-billiard`, `genosyn`, `groq-code-cli` ✅ |
 
-### Repo İstatistikleri (ölçüm: 22 Kasım 2026)
+### Repo İstatistikleri (ölçüm: 26 Kasım 2026)
 
 | Kategori | Sayı |
 |----------|------|
-| 🔒 Private | 67 |
-| 🌍 Public | 32 |
-| 📊 **Toplam** | **99** |
-| — kendi projeler | 86 |
-| — fork | 13 |
+| 🔒 Private | 69 |
+| 🌍 Public | 31 |
+| 📊 **Toplam** | **100** |
+| — kendi projeler | 88 |
+| — fork | 12 |
 
 > Sayaçlar `gh repo list cenktekin --limit 400 --json visibility,isFork` ile ölçülür. Elle tahmin etme.
 
